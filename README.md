@@ -14,22 +14,22 @@
 ## TABLE OF CONTENTS
 | **Section**                                | **Description**                                                                                           |
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| [ABOUT](#about)                            | A summary of the project, may include its origin, purpose, and functionality, along with configuration options. |
-| [OVERVIEW](#overview)                      | A summary of the project's processes, supported by a visual representation (e.g., a pipeline diagram).    |
-| [DATA](#data)                          | Details of the data files used in the project. |
-| [PARAMETERS](#parameters)                  | A table describing configurable parameters, their expected values, and their impact on the output.      |
-| [USAGE](#usage)                            | Detailed guidance on how to use the project, including pre-requisites, instructions, and optional notes.   |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Pre-requisites](#pre-requisites) | Dependencies and hardware/software requirements.                                                          |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Instructions](#instructions)    | Step-by-step directions for running the code, including examples and links to related resources.          |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Notes](#notes) | Additional optional details, tips, or alternative methods.                                               |
-| [OUTPUT](#output)                          | Details of the output files generated, which may include formats, locations, and naming conventions. |
-| [KNOWN ISSUES](#known-issues) | A section for documenting known bugs or limitations, along with potential workarounds or references.     |
-| [CREDITS](#credits)                        | Acknowledgment of contributors, teams, and organizations that supported the project.                      |
-| [CONTRIBUTION](#contribution)              | Guidelines for contributing to the repository, with a link to the `CONTRIBUTING.md` file.                 |
-| [COPYRIGHT](#copyright)                    | Ownership details                     |
-| [LICENSE](#license)                        | Information about the license, including a link to the `LICENSE` file.                           |
-| [PUBLICATIONS & ADDITIONAL RESOURCES](#publications--additional-resources) | Links to publications, articles, or other resources related to the project.                             |
-| [CITATION](#citation)                      | Instructions for citing the project, with references to the `CITATION.cff` and `CITATIONS.md` files.      |
+| [ABOUT](#about)                            | *A summary of the project, may include its origin, purpose, and functionality, along with configuration options.* |
+| [OVERVIEW](#overview)                      | *A summary of the project's processes, supported by a visual representation (e.g., a pipeline diagram).*    |
+| [DATA](#data)                          | *Details of the data files used in the project.* |
+| [PARAMETERS](#parameters)                  | *A table describing configurable parameters, their expected values, and their impact on the output.*      |
+| [USAGE](#usage)                            | *Detailed guidance on how to use the project, including pre-requisites, instructions, and optional notes.*   |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Pre-requisites](#pre-requisites) | *Dependencies and hardware/software requirements.*                                                          |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Instructions](#instructions)    | *Step-by-step directions for running the code, including examples and links to related resources.*          |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Notes](#notes) | *Additional optional details, tips, or alternative methods.*                                               |
+| [OUTPUT](#output)                          | *Details of the output files generated, which may include formats, locations, and naming conventions.* |
+| [KNOWN ISSUES](#known-issues) | *A section for documenting known bugs or limitations, along with potential workarounds or references.*     |
+| [CREDITS](#credits)                        | *Acknowledgment of contributors, teams, and organizations that supported the project.*                      |
+| [CONTRIBUTION](#contribution)              | *Guidelines for contributing to the repository, with a link to the `CONTRIBUTING.md` file.*                 |
+| [COPYRIGHT](#copyright)                    | *Ownership details*                     |
+| [LICENSE](#license)                        | *Information about the license, including a link to the `LICENSE` file.*                           |
+| [PUBLICATIONS & ADDITIONAL RESOURCES](#publications--additional-resources) | *Links to publications, articles, or other resources related to the project.*                             |
+| [CITATION](#citation)                      | *Instructions for citing the project, with references to the `CITATION.cff` and `CITATIONS.md` files.*      |
 
 ---
 
