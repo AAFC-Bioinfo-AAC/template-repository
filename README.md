@@ -2,14 +2,12 @@
 [![Repository Template](https://img.shields.io/badge/repository-template-blue)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Name of the repository could eventually follow a convention specified in the ABCC_RBCA_Guide. Should clearly convey the purpose/functionality of the project.
-
 ## ABOUT
-Summary of the project:
-- How the project came about and its purpose.
-- What the code in this repository does.
-- The different ways the code can be configured or customized for specific use cases.
-- Could include a brief mention of any unique features or benefits of the project.
+*Summary of the project:*
+- *How the project came about and its purpose.*
+- *What the code in this repository does.*
+- *The different ways the code can be configured or customized for specific use cases.*
+- *Could include a brief mention of any unique features or benefits of the project.*
 
 ---
 
@@ -36,9 +34,9 @@ Summary of the project:
 ---
 
 ## OVERVIEW
-Provide a summary of the steps or processes the code performs. Include:
-- A high-level description of how the pipeline or software operates.
-- A diagram or workflow visual that illustrates the main steps or processes.
+*Provide a summary of the steps or processes the code performs. Include:*
+- *A high-level description of how the pipeline or software operates.*
+- *A diagram or workflow visual that illustrates the main steps or processes.*
 
 **Example**:
 ```mermaid
@@ -50,14 +48,14 @@ Provide a summary of the steps or processes the code performs. Include:
 
 ## DATA
 
-A description of the data used in the project. This can include file type, formatting, source, etc.
+*A description of the data used in the project. This can include file type, formatting, source, etc.*
 
 
 **Example:**
 - **Dataset 1 Filename**: Sequencing reads (FASTQ) from X. Retrieved on 2025-01-01.
 - **Dataset 2 Filename**: Reference genome (FASTA) from Y. Retrieved on 2025-01-01.
 
-For large external datasets, provide links or instructions to download or utilize them. 
+*For large external datasets, provide links or instructions to download or utilize them.* 
 
 
 **Example:**
@@ -72,46 +70,46 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 ## PARAMETERS
 | Parameter        | Value                  |
 |------------------|------------------------|
-| parameter_name_1 | Description of what the parameter does and the expected value (e.g., integer, string, file path). |
-| parameter_name_2 | Description of what the parameter does and the expected value (e.g., boolean, list). |
+| *parameter_name_1* | *Description of what the parameter does and the expected value (e.g., integer, string, file path).* |
+| *parameter_name_2* | *Description of what the parameter does and the expected value (e.g., boolean, list).* |
 
 ---
 
 ## USAGE
 ### Pre-requisites
-List the dependencies or software required to run the code. Include:
-- Specific programming languages, libraries, or frameworks (e.g., Python 3.9, NumPy).
-- Installation instructions for dependencies (e.g., pip install, conda environments).
-- Hardware requirements, if any (e.g., CPU/GPU specifications, memory, specs used when running with SLURM).
+*List the dependencies or software required to run the code. Include:*
+- *Specific programming languages, libraries, or frameworks (e.g., Python 3.9, NumPy).*
+- *Installation instructions for dependencies (e.g., pip install, conda environments).*
+- *Hardware requirements, if any (e.g., CPU/GPU specifications, memory, specs used when running with SLURM).*
 
 ### Instructions
-**DETAILED** Step-by-step guide to running the code. Can include:
-- Command-line examples or scripts to execute.
-- Screenshots, images, or videos illustrating usage.
-- Links to detailed documentation or tutorials.
-- Diagrams showing data flow or system behavior.
+*DETAILED Step-by-step guide to running the code. Can include:*
+- *Command-line examples or scripts to execute.*
+- *Screenshots, images, or videos illustrating usage.*
+- *Links to detailed documentation or tutorials.*
+- *Diagrams showing data flow or system behavior.*
 
 ### Notes
-IF APPLICABLE: Any information, such as tips, warnings, or alternative ways to run the code.
+*IF APPLICABLE: Any information, such as tips, warnings, or alternative ways to run the code.*
 
-OTHERWISE: Write N/A
+*OTHERWISE: Write N/A*
 
 ---
 
 ## OUTPUT
-Describe the expected outputs of the code. Include:
-- File types (e.g., `.csv`, `.txt`, `.bam`).
-- Location of the files.
-- File naming conventions.
-- Examples of output files or links to them, if applicable.
+*Describe the expected outputs of the code. Include:*
+- *File types (e.g., `.csv`, `.txt`, `.bam`).*
+- *Location of the files.*
+- *File naming conventions.*
+- *Examples of output files or links to them, if applicable.*
 
 ---
 
 ## KNOWN ISSUES
-IF APPLICABLE: List any known bugs, limitations, or issues with the current version of the code.
-- Include workarounds or references to issues in the issue tracker, if available.
+*IF APPLICABLE: List any known bugs, limitations, or issues with the current version of the code.*
+- *Include workarounds or references to issues in the issue tracker, if available.*
 
-OTHERWISE: Write N/A
+*OTHERWISE: Write N/A*
 
 ---
 
@@ -141,12 +139,12 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 ## PUBLICATIONS & ADDITIONAL RESOURCES
-IF APPLICABLE: Include any publications, articles, or additional resources that are related to the project.
+*IF APPLICABLE: Include any publications, articles, or additional resources that are related to the project.*
 - [Index.md_link](docs/index.md)
-- Links to related papers or articles.
-- References for bioinformatics tools or methods used in the code.
+- *Links to related papers or articles.*
+- *References for bioinformatics tools or methods used in the code.*
 
-OTHERWISE: Write N/A
+*OTHERWISE: Write N/A*
 
 ---
 
