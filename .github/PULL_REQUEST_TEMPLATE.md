@@ -33,4 +33,4 @@ Include screenshots if applicable/necessary. If none, write N/A.
 ---
 
 ## Additional Information
-Add any other relevant information or context about the pull request (E.g "This update resolves issues identified in the discussion on #101."). If none, write N/A.
+Add any other relevant information or context about the pull request. If none, write N/A.
