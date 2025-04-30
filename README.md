@@ -23,7 +23,6 @@
 | &nbsp;&nbsp;&nbsp;&nbsp;[Instructions](#instructions)    | *Step-by-step directions for running the code, including examples and links to related resources.*          |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Notes](#notes) | *Additional optional details, tips, or alternative methods.*                                               |
 | [OUTPUT](#output)                          | *Details of the output files generated, which may include formats, locations, and naming conventions.* |
-| [KNOWN ISSUES](#known-issues) | *A section for documenting known bugs or limitations, along with potential workarounds or references.*     |
 | [CREDITS](#credits)                        | *Acknowledgment of contributors, teams, and organizations that supported the project.*                      |
 | [CONTRIBUTION](#contribution)              | *Guidelines for contributing to the repository, with a link to the `CONTRIBUTING.md` file.*                 |
 | [COPYRIGHT](#copyright)                    | *Ownership details*                     |
@@ -105,14 +104,6 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 
 ---
 
-## KNOWN ISSUES
-*IF APPLICABLE: List any known bugs, limitations, or issues with the current version of the code.*
-- *Include workarounds or references to issues in the issue tracker, if available.*
-
-*OTHERWISE: Write N/A*
-
----
-
 ## CREDITS
 **Example:**
 "This repository was written by [Your Name/Team Name]."
@@ -140,11 +131,11 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## PUBLICATIONS & ADDITIONAL RESOURCES
 *IF APPLICABLE: Include any publications, articles, or additional resources that are related to the project.*
-- [Index.md_link](docs/index.md)
 - *Links to related papers or articles.*
 - *References for bioinformatics tools or methods used in the code.*
 
-*OTHERWISE: Write N/A*
+#### ABCC_RCBA_Guide
+Refer to the [ABCC_RCBA_Guide](https://github.com/AAFC-Bioinformatics/ABCC_RCBA_Guide) for additional context and supplementary materials that align with this project.
 
 ---
 
