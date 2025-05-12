@@ -135,7 +135,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 - *References for bioinformatics tools or methods used in the code.*
 
 #### ABCC_RCBA_Guide
-Refer to the [ABCC_RCBA_Guide](https://github.com/AAFC-Bioinformatics/ABCC_RCBA_Guide) for additional context and supplementary materials that align with this project.
+Guidelines (under development) for additional context and supplementary materials that align with this project.
 
 ---
 
