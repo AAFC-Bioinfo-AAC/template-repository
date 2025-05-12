@@ -115,7 +115,7 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 ---
 
 ## CONTRIBUTION
-If you would like to contribute to this project, please consult [CONTRIBUTING.md](.github/CONTRIBUTING.md)
+If you would like to contribute to this project, please consult [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
