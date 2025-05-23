@@ -1,8 +1,8 @@
-# NAME: ABCC_TEMPLATE
+# Name: ABCC_TEMPLATE
 [![Repository Template](https://img.shields.io/badge/repository-template-blue)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## ABOUT
+## About
 *Summary of the project:*
 - *How the project came about and its purpose.*
 - *What the code in this repository does.*
@@ -11,28 +11,28 @@
 
 ---
 
-## TABLE OF CONTENTS
+## Table of Contents
 | **Section**                                | **Description**                                                                                           |
 |--------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| [ABOUT](#about)                            | *A summary of the project, may include its origin, purpose, and functionality, along with configuration options.* |
-| [OVERVIEW](#overview)                      | *A summary of the project's processes, supported by a visual representation (e.g., a pipeline diagram).*    |
-| [DATA](#data)                          | *Details of the data files used in the project.* |
-| [PARAMETERS](#parameters)                  | *A table describing configurable parameters, their expected values, and their impact on the output.*      |
-| [USAGE](#usage)                            | *Detailed guidance on how to use the project, including pre-requisites, instructions, and optional notes.*   |
+| [About](#about)                            | *A summary of the project, may include its origin, purpose, and functionality, along with configuration options.* |
+| [Overview](#overview)                      | *A summary of the project's processes, supported by a visual representation (e.g., a pipeline diagram).*    |
+| [Data](#data)                          | *Details of the data files used in the project.* |
+| [Parameters](#parameters)                  | *A table describing configurable parameters, their expected values, and their impact on the output.*      |
+| [Usage](#usage)                            | *Detailed guidance on how to use the project, including pre-requisites, instructions, and optional notes.*   |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Pre-requisites](#pre-requisites) | *Dependencies and hardware/software requirements.*                                                          |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Instructions](#instructions)    | *Step-by-step directions for running the code, including examples and links to related resources.*          |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Notes](#notes) | *Additional optional details, tips, or alternative methods.*                                               |
-| [OUTPUT](#output)                          | *Details of the output files generated, which may include formats, locations, and naming conventions.* |
-| [CREDITS](#credits)                        | *Acknowledgment of contributors, teams, and organizations that supported the project.*                      |
-| [CONTRIBUTION](#contribution)              | *Guidelines for contributing to the repository, with a link to the `CONTRIBUTING.md` file.*                 |
-| [COPYRIGHT](#copyright)                    | *Ownership details*                     |
-| [LICENSE](#license)                        | *Information about the license, including a link to the `LICENSE` file.*                           |
-| [PUBLICATIONS & ADDITIONAL RESOURCES](#publications--additional-resources) | *Links to publications, articles, or other resources related to the project.*                             |
-| [CITATION](#citation)                      | *Instructions for citing the project, with references to the `CITATION.cff` and `CITATIONS.md` files.*      |
+| [Output](#output)                          | *Details of the output files generated, which may include formats, locations, and naming conventions.* |
+| [Credits](#credits)                        | *Acknowledgment of contributors, teams, and organizations that supported the project.*                      |
+| [Contribution](#contribution)              | *Guidelines for contributing to the repository, with a link to the `CONTRIBUTING.md` file.*                 |
+| [Copyright](#copyright)                    | *Ownership details*                     |
+| [License](#license)                        | *Information about the license, including a link to the `LICENSE` file.*                           |
+| [Publications & Additional Resources](#publications--additional-resources) | *Links to publications, articles, or other resources related to the project.*                             |
+| [Citation](#citation)                      | *Instructions for citing the project, with references to the `CITATION.cff` and `CITATIONS.md` files.*      |
 
 ---
 
-## OVERVIEW
+## Overview
 *Provide a summary of the steps or processes the code performs. Include:*
 - *A high-level description of how the pipeline or software operates.*
 - *A diagram or workflow visual that illustrates the main steps or processes.*
@@ -45,7 +45,7 @@
 
 ---
 
-## DATA
+## Data
 
 *A description of the data used in the project. This can include file type, formatting, source, etc.*
 
@@ -66,7 +66,7 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 
 ---
 
-## PARAMETERS
+## Parameters
 | Parameter        | Value                  |
 |------------------|------------------------|
 | *parameter_name_1* | *Description of what the parameter does and the expected value (e.g., integer, string, file path).* |
@@ -74,7 +74,7 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 
 ---
 
-## USAGE
+## Usage
 ### Pre-requisites
 *List the dependencies or software required to run the code. Include:*
 - *Specific programming languages, libraries, or frameworks (e.g., Python 3.9, NumPy).*
@@ -95,7 +95,7 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 
 ---
 
-## OUTPUT
+## Output
 *Describe the expected outputs of the code. Include:*
 - *File types (e.g., `.csv`, `.txt`, `.bam`).*
 - *Location of the files.*
@@ -104,7 +104,7 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 
 ---
 
-## CREDITS
+## Credits
 **Example:**
 "This repository was written by [Your Name/Team Name]."
 "We thank the following people and teams for their assistance in the development of this project:"
@@ -114,22 +114,22 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 
 ---
 
-## CONTRIBUTION
+## Contribution
 If you would like to contribute to this project, please consult [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-## COPYRIGHT
+## Copyright
 Government of Canada, Agriculture & Agri-Food Canada
 
 ---
 
-## LICENSE
+## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## PUBLICATIONS & ADDITIONAL RESOURCES
+## Publications & Additional Resources
 *IF APPLICABLE: Include any publications, articles, or additional resources that are related to the project.*
 - *Links to related papers or articles.*
 - *References for bioinformatics tools or methods used in the code.*
@@ -139,5 +139,5 @@ Guidelines (under development) for additional context and supplementary material
 
 ---
 
-## CITATION
+## Citation
 If you use this repository for your analysis, please cite it using the [CITATION.cff](CITATION.cff) file. An extensive list of references for the tools used can be found in the [CITATIONS.md](CITATIONS.md) file.
