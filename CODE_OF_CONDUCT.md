@@ -1,6 +1,6 @@
 # Contributor Covenant Code of Conduct for AAFC Bioinformatics Code Catalogue (ABCC)
 
-([Français](#Code-de-conduite-pour-Répertoire-de-codes-Bioinformatique-d'AAC-(RCBA)))
+([Français](#code-de-conduite-pour-r%C3%A9pertoire-de-codes-bioinformatique-daac-rcba))
 
 Contributors to repositories hosted in AAFC Bioinformatics Code Catalogue (ABCC) are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049).
 
@@ -62,7 +62,7 @@ This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https
 # Code de conduite pour Répertoire de codes Bioinformatique d'AAC (RCBA)
 <!--markdownlint-enable MD025-->
 
-([English](#contributor-covenant-code-of-conduct-for-AAFC-Bioinformatics-Code-Catalogue-(ABCC)))
+([English](#contributor-covenant-code-of-conduct-for-aafc-bioinformatics-code-catalogue-abcc))
 
 Les contributeurs aux dépôts hébergés dans Répertoire de codes Bioinformatique d'AAC (RCBA) sont tenus de respecter le Code de conduite du Pacte des contributeurs, et ceux qui travaillent au sein du gouvernement sont également tenus de respecter le [Code de valeurs et d'éthique du secteur public](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=25049).
 
