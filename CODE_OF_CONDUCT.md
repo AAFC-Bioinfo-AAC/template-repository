@@ -1,8 +1,8 @@
 # Contributor Covenant Code of Conduct for AAFC Bioinformatics Code Catalogue (ABCC)
 
-([Français](#code-de-conduite-pour-le-projet-nom-du-projet))
+([Français](#Code-de-conduite-pour-Répertoire-de-codes-Bioinformatique-d'AAC-(RCBA)))
 
-Contributors to repositories hosted in AAFC Bioinformatics Code Catalogue (ABCC) are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049)
+Contributors to repositories hosted in AAFC Bioinformatics Code Catalogue (ABCC) are expected to follow the Contributor Covenant Code of Conduct, and those working within Government are also expected to follow the [Values and Ethics Code for the Public Sector](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=25049).
 
 ## Our Pledge
 
@@ -40,7 +40,8 @@ Representation of a project may be further defined and clarified by project main
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at: aafc.bioinfosupport.aac@agr.gc.ca​
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at aafc.bioinfosupport.aac@agr.gc.ca​
+
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
 The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
 Further details of specific enforcement policies may be posted separately.
@@ -54,14 +55,14 @@ available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.h
 
 [homepage]: https://www.contributor-covenant.org
 
-This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https://github.com/alphagov/code-of-conduct)
+This Code of Conduct is also inspired by GDS' `alphagov` [Code of conduct](https://github.com/alphagov/code-of-conduct](https://github.com/alphagov/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ---
 <!--markdownlint-disable MD025-->
 # Code de conduite pour Répertoire de codes Bioinformatique d'AAC (RCBA)
 <!--markdownlint-enable MD025-->
 
-([English](#contributor-covenant-code-of-conduct-for-the-project_name-project))
+([English](#contributor-covenant-code-of-conduct-for-AAFC-Bioinformatics-Code-Catalogue-(ABCC)))
 
 Les contributeurs aux dépôts hébergés dans Répertoire de codes Bioinformatique d'AAC (RCBA) sont tenus de respecter le Code de conduite du Pacte des contributeurs, et ceux qui travaillent au sein du gouvernement sont également tenus de respecter le [Code de valeurs et d'éthique du secteur public](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=25049).
 
@@ -101,7 +102,8 @@ La représentation d'un projet peut être mieux défini et clarifié par les res
 
 ## Application des règles
 
-Les cas de comportement abusif, de harcèlement ou d'autres comportements inacceptables peuvent être rapportés en communiquant avec l'équipe de projet à l'adresse suivante: aafc.bioinfosupport.aac@agr.gc.ca​.
+Les cas de comportement abusif, de harcèlement ou d'autres comportements inacceptables peuvent être rapportés en communiquant avec l'équipe de projet à l'adresse suivante aafc.bioinfosupport.aac@agr.gc.ca​
+
 Toutes les plaintes feront l'objet d'un examen et d'une enquête et donneront lieu à une réponse qui est jugée nécessaire et appropriée dans les circonstances.
 L'équipe de projet est dans l'obligation de respecter la confidentialité à l'égard du déclarant d'un incident.
 De plus amples détails sur les politiques d'application spécifiques peuvent être affichés séparément.
@@ -111,7 +113,7 @@ Les responsables de projet qui ne respectent pas ou n'appliquent pas le Code de 
 ## Attribution [FR]
 
 Le présent Code de conduite est adapté de la version 1.4 du [Pacte du contributeur][page d'accueil],
-disponible à l'adresse [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
+disponible à l'adresse [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
 
 [page d'accueil]: https://www.contributor-covenant.org
 
