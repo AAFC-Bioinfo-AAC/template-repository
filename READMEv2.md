@@ -2,10 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Repository Template](https://img.shields.io/badge/repository-template-blue)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
-<sub>🔎 Click the badges above to learn more.</sub>
 
 
-*Using GitHub badges is a great way to display project metadata, build status, license, dependencies, versioning, and more — directly in your README.md. Each badge links to relevant documentation or license details. These badges above were created using [Shields.io](https://shields.io/). For example, the MIT license badge was created using:*
+*Using GitHub badges is a great way to display project metadata, build status, license, dependencies, versioning, and more — directly in your README.md. Click on the badges to learn more. The badges above were created using [Shields.io](https://shields.io/). For example, the MIT license badge was created using:*
 ```
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ```
