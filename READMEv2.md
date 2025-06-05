@@ -60,9 +60,8 @@ This project implements a generic pipeline for data ingestion, processing, and a
 **Example Workflow Diagram:**
 
 ```mermaid
-flowchart TD
-    A[Input Data] --> B[Processing Tool 1] --> C[Intermediate Output]
-    C --> D[Processing Tool 2] --> E[Final Output]
+    flowchart TD
+        A[Pipeline Input]-->B{Tool}-->C([Intermediate Files])-->D{Tool}-->E((Pipeline Output))
 ```
 
 ---
