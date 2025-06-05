@@ -52,7 +52,8 @@ https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#t
 
 ## Overview
 
-*Provide a high-level process summary with an optional pipeline diagram.*                                       
+*Provide a high-level process summary with an optional pipeline diagram. Here the pipeline diagram was created using [Mermaid Diagramming and charting tool](https://mermaid.js.org/). The Mermaid code can be tested [here](https://www.mermaidchart.com/play)*
+
 
 This project implements a generic pipeline for data ingestion, processing, and analysis. It can be customized to suit different types of workflows.
 
