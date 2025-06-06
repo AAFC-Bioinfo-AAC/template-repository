@@ -4,7 +4,7 @@
 [![Repository Template](https://img.shields.io/badge/repository-template-blue)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
 
 
-*Using GitHub badges is a great way to display project metadata, build status, license, dependencies, versioning, and more — directly in your README.md. Click on the badges to learn more. The badges above were created using [Shields.io](https://shields.io/). For example, the MIT license badge was created using:*
+*Using GitHub badges is a great way to display project metadata, build status, license, dependencies, versioning, and more — directly in your README.md. Badges can be linked and clickable to point to informatation or the services linked to the badge. The badges above were created using [Shields.io](https://shields.io/). For example, the MIT license badge was created using:*
 ```
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ```
@@ -54,10 +54,11 @@ https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#t
 
 *Provide a high-level process summary with an optional pipeline diagram. Here the pipeline diagram was created using [Mermaid Diagramming and charting tool](https://mermaid.js.org/). The Mermaid code can be tested [here](https://www.mermaidchart.com/play)*
 
+*Example Overview:*
 
 This project implements a generic pipeline for data ingestion, processing, and analysis. It can be customized to suit different types of workflows.
 
-**Example Workflow Diagram:**
+*Example Workflow Diagram:*
 
 ```mermaid
     flowchart TD
@@ -70,7 +71,7 @@ This project implements a generic pipeline for data ingestion, processing, and a
 
 *Provide information on input data formats, structure, and sources.*
 
-Example data used:
+*Example Data:*
 
 - **Dataset 1**: FASTQ reads retrieved from NCBI on 2025-01-01.
 - **Dataset 2**: Reference genome in FASTA format from Ensembl, downloaded on 2025-01-01.
@@ -87,6 +88,8 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 
 *Provide details or a table of configuration options and their descriptions.*
 
+*Example Parameters:*
+
 | Parameter          | Description                                        |
 |--------------------|----------------------------------------------------|
 | `input_folder`     | Path to the input data folder.                     |
@@ -98,6 +101,8 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 ## Usage
 
 *Provide information on any pre-requisites, instructions on installation, configuration, and execution of the pipeline, and notes if any.*
+
+*Example Usage:*
 
 ### Pre-requisites
 
@@ -137,7 +142,9 @@ conda activate conda_env
 
 *Provide format, location, and naming of result files, and a brief description.*
 
-Example output files include:
+*Example Output:*
+
+Output files include:
 
 - `results/reports/summary.csv`: Key metrics from analysis.
 - `results/logs/pipeline.log`: Step-by-step log.
@@ -149,13 +156,13 @@ Example output files include:
 
 *Provide acknowledgements to contributors and collaborators. Indicate a primary contact, typically the admin/maintainer of the repository.*
 
-Developed and maintained by the ABCC team.
+*Example Credits:*
 
-Contributors:
+Developed and maintained by the ABCC team. Contributors include:
 - Contributor 1
 - Contributor 2
 
-Primary contact: [Name](mailto: <email_id>)
+**Primary contact:** [Name](mailto: <email_id>)
 
 ---
 
@@ -181,14 +188,13 @@ Government of Canada, Agriculture & Agri-Food Canada (AAFC).
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for full details.
 
-The MIT License was chosen to promote openness and reproducibility, allowing others to freely use, modify, and distribute the project while ensuring proper attribution.
-
 ---
 
 ## References
 
 *Provide references to key publications and any useful resources for tools/software used. Formal citations of the tools used may also be provided via a CITATIONS.md file.*
 
+*Example References:*
 
 ### Publications
 The pipeline and analysis associated with it is published here:
