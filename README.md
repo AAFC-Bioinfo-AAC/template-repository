@@ -169,7 +169,7 @@ Contributors include:
 
 ## Contribution
 
-*Point to guidelines for contributing to the project.*
+*Provide guidelines for contributing to the project.*
 
 If you would like to contribute to this project, please review the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) and ensure you adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to foster a respectful and inclusive environment.
 
@@ -177,9 +177,9 @@ If you would like to contribute to this project, please review the guidelines in
 
 ## License
 
-*Provide license information, changing from the default MIT included where required.*
+*Provide license information, changing from the default MIT included where required. Add copyright statement in License.*
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for full details.
+This project is distributed under the MIT License. For complete details and copyright information, see the [LICENSE](LICENSE) file.
 
 ---
 
