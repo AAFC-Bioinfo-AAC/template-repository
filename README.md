@@ -163,7 +163,7 @@ Contributors include:
 - Contributor 1
 - Contributor 2
 
-**Primary contact:** [Name](mailto: email_id)
+**Primary contact:** [Name]
 
 ---
 
