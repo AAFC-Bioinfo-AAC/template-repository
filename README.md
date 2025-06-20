@@ -4,11 +4,6 @@
 [![Repository Template](https://img.shields.io/badge/repository-template-blue)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
 
 
-*Using GitHub badges is a great way to display project metadata, build status, license, dependencies, versioning, and more — directly in your README.md. Badges can be linked and clickable to point to the information or the services linked to the badge. The badges above were created using [Shields.io](https://shields.io/). For example, the MIT license badge was created using:*
-```
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-```
-
 ## About
 
 *Provide a summary, purpose, and key features of the project.*
