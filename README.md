@@ -8,20 +8,17 @@
 
 *Provide a summary, purpose, and key features of the project.*
 
-*Example About:*
+*Example **About**:*
 
-This repository serves as a template for creating reproducible and customizable data processing workflows. It is designed to help researchers and developers quickly set up new projects by providing modular and parameterized components that can be easily adapted to different use cases.
+This repository serves as a template for creating reproducible and customizable data processing workflows. It is designed to help researchers and developers quickly set up new projects by providing modular and parameterized components that can be easily adapted to different use cases. The template may be customized, adding/removing sections as needed, while maintaining good documentation. 
 
-Features:
-- Flexible configuration options for diverse datasets and pipelines.
-- Clear structure for reproducibility and collaboration.
-- Built-in support for extensibility and integration with external tools.
+For more info, refer: [Template Repository User Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md)
 
 ---
 
 ## Table of Contents
 
-*Example Table of Contents; may optionally be placed above the **About** section:*
+*Example **Table of Contents**; may optionally be placed above the **About** section:*
 
 - [TEMPLATE REPOSITORY](#template-repository)
   - [About](#about)
@@ -49,7 +46,7 @@ Features:
 
 *Provide a high-level process summary with an optional pipeline diagram. Here the pipeline diagram was created using [Mermaid Diagramming and charting tool](https://mermaid.js.org/). The Mermaid code can be tested [here](https://www.mermaidchart.com/play)*
 
-*Example Overview:*
+*Example **Overview**:*
 
 This project implements a generic pipeline for data ingestion, processing, and analysis. It can be customized to suit different types of workflows.
 
