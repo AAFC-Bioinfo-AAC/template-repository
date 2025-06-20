@@ -44,7 +44,6 @@ https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#t
   - [Output](#output)
   - [Credits](#credits)
   - [Contribution](#contribution)
-  - [Copyright](#copyright)
   - [License](#license)
   - [References](#references)
     - [Publications](#publications)
@@ -184,14 +183,6 @@ Contributors include:
 *Point to guidelines for contributing to the project.*
 
 If you would like to contribute to this project, please review the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) and ensure you adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to foster a respectful and inclusive environment.
-
----
-
-## Copyright
-
-*Provide ownership and intellectual property details.*
-
-Government of Canada, Agriculture & Agri-Food Canada (AAFC).
 
 ---
 
