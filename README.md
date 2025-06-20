@@ -18,7 +18,7 @@ For more info, refer: [Template Repository User Guide](https://github.com/AAFC-B
 
 ## Table of Contents
 
-*Example **Table of Contents**; may optionally be placed above the **About** section:*
+*Example **Table of Contents** (may optionally be placed above the **About** section):*
 
 - [TEMPLATE REPOSITORY](#template-repository)
   - [About](#about)
