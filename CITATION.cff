@@ -5,12 +5,9 @@ version: 1.0.0
 doi: # Optional if using Zenodo integration
 date-released: 2025-06-01
 authors:
-  - family-names: 
+  - family-names: ABCC core team
     given-names: 
     orcid: 
-    affiliation: 
-  - family-names: 
-    given-names: 
     affiliation: 
 abstract: >
   ABCC_TEMPLATE is a modular and extensible template for developing reproducible 
