@@ -111,10 +111,10 @@ curl -O https://example.com/path/to/dataset1.tar.gz
    ```
 
 2. Create the Conda environment
-```
-conda env create -f your-repo/config/environment.yml
-conda activate conda_env
-```
+   ```
+   conda env create -f your-repo/config/environment.yml
+   conda activate conda_env
+    ```
 
 3. Configure pipeline parameters:
    Edit the `config.yaml` file to specify paths to your input data and desired settings if your pipeline uses one.
