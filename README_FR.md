@@ -6,7 +6,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Repository Template](https://img.shields.io/badge/repository-template-blue)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
 
-
 ## À propos
 
 *Fournissez un résumé, l'objectif et les principales caractéristiques du projet.*
@@ -97,24 +96,26 @@ curl -O https://example.com/chemin/vers/jeu_de_donnees1.tar.gz
 
 *Fournissez des informations sur les prérequis, les instructions d'installation, de configuration et d'exécution du pipeline, ainsi que des notes si nécessaire.*
 
-*Exemple Utilisation*
+*Exemple Utilisation:*
 
 ### Prérequis
 
-- Conda 
+- Conda
 - Python 3.9+
 - Système d'exploitation recommandé: Linux
 
 ### Instructions d'installation
 
 1. Cloner le dépôt :
+
    ```bash
    git clone https://github.com/your-org/your-repo.git
    cd your-repo
    ```
 
 2. Créer l'environnement Conda
-   ```
+
+   ```bash
     conda env create -f your-repo/config/environment.yml
     conda activate conda_env
    ```
@@ -123,6 +124,7 @@ curl -O https://example.com/chemin/vers/jeu_de_donnees1.tar.gz
    Modifiez le fichier `config.yaml` pour spécifier les chemins vers vos données d'entrée et les paramètres désirés si votre pipeline en utilise un.
 
 4. Exécuter le pipeline :
+
    ```bash
    python script.py --input input_folder fastq_files --output_folder results
    ```
@@ -154,6 +156,7 @@ Les fichiers de sortie incluent :
 Développé et maintenu par l'**Équipe ABCC**.
 
 Les fichiers suivants ont été adaptés du [Gabarit pour dépôts de code source ouvert du gouvernement du Canada](https://github.com/canada-ca/template-gabarit) :
+
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
 - SECURITY.md
@@ -163,6 +166,7 @@ Ce projet inclut du contenu généré par des modèles d'IA, qui a été révis�
 *Exemple Crédits:*
 
 Les contributeurs incluent :
+
 - Contributeur 1
 - Contributeur 2
 
@@ -193,14 +197,18 @@ Ce projet est distribué sous la licence MIT. Pour tous les détails et les info
 *Exemple Références:*
 
 ### Publications
+
 Le pipeline et l'analyse qui y est associée sont publiés ici :
+
 - Titre de votre article publié – Revue, Année.
 
 ### Ressources
+
 - Lien vers le manuel Snakemake
 - Lien vers la documentation de l'outil X
   
 ### Outils/Logiciels
+
 Les références aux outils et logiciels utilisés ici se trouvent dans le fichier [CITATIONS.md](CITATIONS.md).
 
 ---
