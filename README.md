@@ -1,7 +1,7 @@
 # TEMPLATE REPOSITORY
 
 [![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)
-[![EN](https://img.shields.io/badge/lang-EN-blue.svg)](https://github.com/AAFC-Bioinfo-AAC/template-repository)
+[![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Repository Template](https://img.shields.io/badge/repository-template-blue)](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
