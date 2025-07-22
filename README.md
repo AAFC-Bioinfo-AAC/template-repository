@@ -214,6 +214,6 @@ References to tools and software used here can be found in the [CITATIONS.md](CI
 
 ## Citation
 
-*Provide information on how to cite this repository. Use a CITATION.cff file where required. Citation tools like GitHub and Zenodo will use this file to generate standardized references.*
+*Provide instructions on how to cite this repository, ideally by including a CITATION.cff file. The CITATION.cff is a standardized metadata file stored in a GitHub repository that helps ensure consistent citations. Tools like Zenodo and some GitHub features use this file to display or generate citation information automatically.*
 
 If you use this project in your work, please cite it using the [CITATION.cff](CITATION.cff) file.
