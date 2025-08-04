@@ -214,6 +214,6 @@ Les références aux outils et logiciels utilisés ici se trouvent dans le fichi
 
 ## Citation
 
-*Fournissez des informations sur la façon de citer ce dépôt. Utilisez un fichier CITATION.cff si nécessaire. Les outils de citation comme GitHub et Zenodo utiliseront ce fichier pour générer des références normalisées.*
+*Fournissez des instructions sur la façon de citer ce dépôt, idéalement en incluant un fichier CITATION.cff. CITATION.cff est un fichier de métadonnées standardisé stocké dans un dépôt GitHub qui aide à assurer la cohérence des citations. Des outils comme Zenodo et certaines fonctionnalités de GitHub utilisent ce fichier pour afficher ou générer automatiquement les informations de citation.*
 
 Si vous utilisez ce projet dans vos travaux, veuillez le citer en utilisant le fichier [CITATION.cff](CITATION.cff).
