@@ -1,9 +1,19 @@
-runs-on: ubuntu-latest
-steps:
-  - uses: actions/checkout@v4
-    with:
-      path: scancode-inputs
-  - uses: aboutcode-org/scancode-action@main
-    with:
-      pipelines: "scan_codebase"
-      output-formats: "json xlsx spdx cyclonedx"
+name: Run ScanCode
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  scancode:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: scancode-inputs
+
+      - uses: aboutcode-org/scancode-action@main
+        with:
+          pipelines: "scan_codebase"
+          output-formats: "json xlsx spdx cyclonedx"
