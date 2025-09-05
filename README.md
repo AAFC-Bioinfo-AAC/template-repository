@@ -27,11 +27,27 @@ The following files were adapted from the [Template for Government of Canada ope
 
 ---
 
+## Citation
+
+*Provide instructions on how to cite this repository, ideally by including a CITATION.cff file. The CITATION.cff is a standardized metadata file stored in a GitHub repository that helps ensure consistent citations. Tools like Zenodo and some GitHub features use this file to display or generate citation information automatically.*
+
+To cite this project, click the **`Cite this repository`** button on the right-hand sidebar.
+
+---
+
 ## Contribution
 
-*Provide guidelines for contributing to the project.*
+*Provide guidelines for contributing to the project, if applicable.*
 
 If you would like to contribute to this project, please review the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) and ensure you adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to foster a respectful and inclusive environment.
+
+---
+
+## References
+
+*Provide references to key publications and any useful resources for tools/software used via a CITATIONS.md file.*
+
+For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
 ---
 
@@ -45,16 +61,3 @@ Copyright (c) His Majesty the King in Right of Canada, as represented by the Min
 
 ---
 
-## References
-
-*Provide references to key publications and any useful resources for tools/software used via a CITATIONS.md file.*
-
-For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
-
----
-
-## Citation
-
-*Provide instructions on how to cite this repository, ideally by including a CITATION.cff file. The CITATION.cff is a standardized metadata file stored in a GitHub repository that helps ensure consistent citations. Tools like Zenodo and some GitHub features use this file to display or generate citation information automatically.*
-
-To cite this project, click the **`Cite this repository`** button on the right-hand sidebar.
