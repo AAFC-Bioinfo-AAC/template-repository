@@ -45,24 +45,9 @@ This project is distributed under the MIT License. For complete details and copy
 
 ## References
 
-*Provide references to key publications and any useful resources for tools/software used. Formal citations of the tools used may also be provided via a CITATIONS.md file.*
+*Provide references to key publications and any useful resources for tools/software used via a CITATIONS.md file.*
 
-*Example References:*
-
-### Publications
-
-The pipeline and analysis associated with it is published here:
-
-- Your published paper title – Journal, Year.
-
-### Resources
-
-- Link to Snakemake Manual
-- Link to Tool X Documentation
-  
-### Tools/Software
-
-References to tools and software used here can be found in the [CITATIONS.md](CITATIONS.md) file.
+For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
 ---
 
@@ -70,4 +55,4 @@ References to tools and software used here can be found in the [CITATIONS.md](CI
 
 *Provide instructions on how to cite this repository, ideally by including a CITATION.cff file. The CITATION.cff is a standardized metadata file stored in a GitHub repository that helps ensure consistent citations. Tools like Zenodo and some GitHub features use this file to display or generate citation information automatically.*
 
-If you use this project in your work, please cite it using the [CITATION.cff](CITATION.cff) file.
+To cite this project, click the **`Cite this repository`** button on the right-hand sidebar.
