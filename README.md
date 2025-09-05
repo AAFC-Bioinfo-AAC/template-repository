@@ -83,6 +83,8 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
 ## Security
 
+> *👉 REQUIRED:*
+
 ⚠️ Do not post any security issues on the public repository! Please report them as described in [SECURITY.md](SECURITY.md).
 
 ---
