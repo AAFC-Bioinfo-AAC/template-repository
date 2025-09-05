@@ -50,9 +50,11 @@ To cite this project, click the **`Cite this repository`** button on the right-h
 
 ## Contribution
 
-*Optional section: Provide guidelines for contributing to the project, if applicable.*
+> ────────────────────────────────  
+> 👉 [Optional section] Provide guidelines for contributing to the project, if applicable.
+> ────────────────────────────────
 
-If you would like to contribute to this project, please review the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) and ensure you adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to foster a respectful and inclusive environment.
+Contributions are welcome! Please review the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) and ensure you adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to foster a respectful and inclusive environment.
 
 ---
 
