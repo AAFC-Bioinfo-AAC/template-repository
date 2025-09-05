@@ -1,15 +1,9 @@
-# AAFC/ABCC_TEMPLATE: Citations
+# References
 
-Detailed citations of the resources used.
+## Papers
 
-## Examples
+- Article citation with DOI.
 
-### Pipeline tools  
+## Software
 
-- [Tool Name](LINK)  
-    >Citation
-
-### Software packaging/containerisation tools
-
-- [Anaconda](https://anaconda.org/)  
-    >Anaconda Software Distribution. Computer software. Vers. 23.11.0. Anaconda, Dec. 2023. Web.
+- [Tool Name](LINK) Citation with DOI if applicable.
