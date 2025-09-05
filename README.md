@@ -27,7 +27,7 @@ This repository serves as a template for creating reproducible and customizable 
 > ────────────────────────────────  
 > 👉 [Required section] Provide acknowledgements to contributors and collaborators.  
 > Where applicable, use of AI-Generated Content may be declared.  
-> Use a [CREDITS.md](CREDITS.md) to provide a detailed list of individual contributions, keeping the README concise.
+> Use a [CREDITS.md](CREDITS.md) to provide a detailed list of individual contributions, keeping the README concise and bilingual.
 > ────────────────────────────────
 
 This project was developed by the **ABCC core team**. For a list of individual contributions, see [CREDITS.md](CREDITS.md) file.
@@ -51,7 +51,8 @@ To cite this project, click the **`Cite this repository`** button on the right-h
 ## Contribution
 
 > ────────────────────────────────  
-> 👉 [Optional section] Provide guidelines for contributing to the project, if applicable.
+> 👉 [Optional section]  
+> Provide guidelines for contributing to the project, if applicable.  
 > ────────────────────────────────
 
 Contributions are welcome! Please review the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) and ensure you adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to foster a respectful and inclusive environment.
@@ -60,7 +61,10 @@ Contributions are welcome! Please review the guidelines in [CONTRIBUTING.md](CON
 
 ## References
 
-*Required section: Provide references to key resources (publications, tools, software) used via a REFERENCES.md file.*
+> ────────────────────────────────  
+> 👉 [Required section]  
+> Provide references to key resources (publications, tools, software). Use a [REFERENCES.md](REFERENCES.md) file to keep README concise and bilingual.
+> ────────────────────────────────
 
 For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
@@ -68,7 +72,11 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
 ## License
 
-*Required section: Provide license information, changing from the default MIT included where required. Add copyright statement in License file too.*
+> ────────────────────────────────  
+> 👉 [Required section]  
+> Provide license information below and select LICENSE file, changing from the default MIT included here where required.  
+> Add copyright statement in License file and here too for visibility.  
+> ────────────────────────────────
 
 This project is distributed under the MIT License. See [LICENSE](LICENSE) file for details, or visit [LicenseHub](https://licensehub.org/en) for a plain language summary.
 
