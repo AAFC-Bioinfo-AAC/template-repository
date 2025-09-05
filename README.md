@@ -6,19 +6,19 @@
 
 ---
 
-> 👉 NOTE:  
+> ℹ️ *NOTES*
 >
-> - The README should be maintained in both English ([README.md](README.md)) and French ([README_FR.md](README_FR.md)), and be linked to the language badges above.
-> - The README template may be adapted as needed, provided the content under the sections indicated below as required are included. For instance, if the combined content is brief, the four sections - *Credits, Citation, Contribution, References* - may be consolidated into a single section titled *Acknowledgements*.
-> - All technical documentation should reside outside the README, such as in `docs/user-guide.md`, which may be maintained in either English or French, or where resources allow and demand exists, in both languages.
-> - See [Template Repository User Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md) for tips on preparing the README and technical documentation.
+> - *The README should be maintained in both English ([README.md](README.md)) and French ([README_FR.md](README_FR.md)), and be linked to the language badges above.*
+> - *The README template may be adapted as needed, provided the content under the sections indicated below as required are included. For instance, if the combined content is brief, the four sections - **Credits, Citation, Contribution, References** - may be consolidated into a single section titled **Acknowledgements**.*
+> - *All technical documentation should reside outside the README, such as in `docs/user-guide.md`, which may be maintained in either English or French, or where resources allow and demand exists, in both languages.*
+> - *See [Template Repository User Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md) for tips on preparing the README and technical documentation.*
 
 ---
 
 <!-- omit in toc -->
 ## Table of Contents
 
-> 👉 OPTIONAL: may be omitted if the overall content is brief.
+> 👉 *OPTIONAL: may be omitted if the overall content is brief.*
 
 - [About](#about)
 - [Documentation](#documentation)
@@ -30,7 +30,7 @@
 
 ## About
 
-> 👉 REQUIRED section: Provide a summary, purpose, and key features of the project.
+> 👉 *REQUIRED: Provide a summary, purpose, and key features of the project.*
 
 This repository serves as a template for creating reproducible and customizable data processing workflows. It is designed to help researchers and developers quickly set up new projects by providing modular and parameterized components that can be easily adapted to different use cases. The template may be customized, adding/removing sections as needed, while maintaining good documentation.
 
@@ -38,7 +38,7 @@ This repository serves as a template for creating reproducible and customizable 
 
 ## Documentation
 
-> 👉 REQUIRED: Provide all technical details of the project in a separate document linked here.
+> 👉 *REQUIRED: Provide all technical details of the project in a separate document linked here.*
 
 For technical details, including installation and usage instructions, please see the [User Guide](/docs/user-guide.md).
 
@@ -46,7 +46,7 @@ For technical details, including installation and usage instructions, please see
 
 ## Credits
 
-> 👉 REQUIRED: Provide acknowledgements to contributors and collaborators. Use a [CREDITS.md](CREDITS.md) to provide a detailed list of individual contributions, keeping the README concise and bilingual. Where applicable, use of AI-Generated content may be declared.
+> 👉 *REQUIRED: Provide acknowledgements to contributors and collaborators. Use a [CREDITS.md](CREDITS.md) to provide a detailed list of individual contributions, keeping the README concise and bilingual. Where applicable, use of AI-Generated content may be declared.*
 
 This project was developed by the **ABCC core team**. For a list of individual contributions, see [CREDITS.md](CREDITS.md) file.
 
@@ -58,7 +58,7 @@ The following files were adapted from the [Template for Government of Canada ope
 
 ## Citation
 
-> 👉 REQUIRED: Include citation instructions, ideally via a [CITATION.cff](CITATION.cff) file, which enables GitHub and tools like Zenodo to generate standardized citations automatically.
+> 👉 *REQUIRED: Include citation instructions, ideally via a [CITATION.cff](CITATION.cff) file, which enables GitHub and tools like Zenodo to generate standardized citations automatically.*
 
 To cite this project, click the **`Cite this repository`** button on the right-hand sidebar.
 
@@ -66,7 +66,7 @@ To cite this project, click the **`Cite this repository`** button on the right-h
 
 ## Contribution
 
-> 👉 OPTIONAL: Provide guidelines for contributing to the project, if applicable.  
+> 👉 *OPTIONAL: Provide guidelines for contributing to the project, if applicable.*
 
 Contributions are welcome! Please review the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) and ensure you adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to foster a respectful and inclusive environment.
 
@@ -74,7 +74,7 @@ Contributions are welcome! Please review the guidelines in [CONTRIBUTING.md](CON
 
 ## References
 
-> 👉 REQUIRED: Provide references to key resources (publications, tools, software). Use a [REFERENCES.md](REFERENCES.md) file to keep README concise and bilingual.
+> 👉 *REQUIRED: Provide references to key resources (publications, tools, software). Use a [REFERENCES.md](REFERENCES.md) file to keep README concise and bilingual.*
 
 For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
@@ -82,13 +82,13 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
 ## License
 
-> 👉 REQUIRED:
+> *👉 REQUIRED:*
 >
-> - Provide license information below and [select LICENSE file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository), changing from the default MIT included here where required.
-> - Add copyright statement in the License file and here too for visibility.
-> - Check out the following tools from [LicenseHub](https://licensehub.org) for:
->   - [Smart License Recommendation](https://licensehub.org/en/tools/selector)
->   - [License Template Generator](https://licensehub.org/en/tools/generator)
+> - *Provide license information below and [select LICENSE file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository), changing from the default MIT included here where required.*
+> - *Add copyright statement in the License file and here too for visibility.*
+> - *Check out the following tools from [LicenseHub](https://licensehub.org) for:*
+>   - *[Smart License Recommendation](https://licensehub.org/en/tools/selector)*
+>   - *[License Template Generator](https://licensehub.org/en/tools/generator)*
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details or visit [LicenseHub](https://licensehub.org/en) to view the plain-language summary of this license.
 
