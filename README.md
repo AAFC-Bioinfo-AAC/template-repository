@@ -39,7 +39,9 @@ If you would like to contribute to this project, please review the guidelines in
 
 *Provide license information, changing from the default MIT included where required. Add copyright statement in License.*
 
-This project is distributed under the MIT License. For complete details and copyright information, see the [LICENSE](LICENSE) file.
+This project is distributed under the MIT License. See [LICENSE](LICENSE) file for details, or visit [LicenseHub](https://licensehub.org/en) for a plain language summary.
+
+Copyright (c) His Majesty the King in Right of Canada, as represented by the Minister of Agriculture and Agri-Food, 2025.
 
 ---
 
