@@ -5,7 +5,7 @@
 
 ## About
 
-*Provide a summary, purpose, and key features of the project.*
+*Required section: Provide a summary, purpose, and key features of the project.*
 
 *Example **About**:*
 
@@ -17,7 +17,7 @@ For more info, refer: [Template Repository User Guide](https://github.com/AAFC-B
 
 ## Credits
 
-*Provide acknowledgements to contributors and collaborators, and where applicable, a notice of AI-Generated Content. If needed, use a CREDITS.md file to list individual contributions.*
+*Required section: Provide acknowledgements to contributors and collaborators, and where applicable, a notice of AI-Generated Content. If needed, use a CREDITS.md file to list individual contributions.*
 
 This project was developed by the **ABCC core team**. For a list of individual contributions, see CREDITS.md[CREDITS.md] file.
 
@@ -29,7 +29,7 @@ The following files were adapted from the [Template for Government of Canada ope
 
 ## Citation
 
-*Provide instructions on how to cite this repository, ideally by including a CITATION.cff file. The CITATION.cff is a standardized metadata file stored in a GitHub repository that helps ensure consistent citations. Tools like Zenodo and some GitHub features use this file to display or generate citation information automatically.*
+*Required section: Provide instructions on how to cite this repository, ideally by including a CITATION.cff file. The CITATION.cff is a standardized metadata file stored in a GitHub repository that helps ensure consistent citations. Tools like Zenodo and some GitHub features use this file to display or generate citation information automatically.*
 
 To cite this project, click the **`Cite this repository`** button on the right-hand sidebar.
 
@@ -37,7 +37,7 @@ To cite this project, click the **`Cite this repository`** button on the right-h
 
 ## Contribution
 
-*Provide guidelines for contributing to the project, if applicable.*
+*Optional section: Provide guidelines for contributing to the project, if applicable.*
 
 If you would like to contribute to this project, please review the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) and ensure you adhere to our [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) to foster a respectful and inclusive environment.
 
@@ -45,7 +45,7 @@ If you would like to contribute to this project, please review the guidelines in
 
 ## References
 
-*Provide references to key resources (publications, tools, software) used via a REFERENCES.md file.*
+*Required section: Provide references to key resources (publications, tools, software) used via a REFERENCES.md file.*
 
 For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
@@ -53,11 +53,10 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
 ## License
 
-*Provide license information, changing from the default MIT included where required. Add copyright statement in License.*
+*Required section: Provide license information, changing from the default MIT included where required. Add copyright statement in License file too.*
 
 This project is distributed under the MIT License. See [LICENSE](LICENSE) file for details, or visit [LicenseHub](https://licensehub.org/en) for a plain language summary.
 
 Copyright (c) His Majesty the King in Right of Canada, as represented by the Minister of Agriculture and Agri-Food, 2025.
 
 ---
-
