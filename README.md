@@ -93,7 +93,7 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
 > *👉 REQUIRED:*
 >
-> - *Provide license information below and [add LICENSE file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository), if different from the default MIT included here.*
+> - *Provide license information below and [add a LICENSE file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository), if different from the default MIT included here.*
 > - *Add/update copyright statement in the License file and here too for visibility.*
 > - *Useful tools from [LicenseHub](https://licensehub.org):*
 >   - *[Smart License Recommendation](https://licensehub.org/en/tools/selector)*
