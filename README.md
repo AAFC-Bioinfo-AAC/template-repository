@@ -24,6 +24,7 @@
 - [Citation](#citation)
 - [Contribution](#contribution)
 - [References](#references)
+- [Security](#security)
 - [License](#license)
 
 ---
@@ -80,6 +81,12 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
 ---
 
+## Security
+
+⚠️ Do not post any security issues on the public repository! Please report them as described in [SECURITY.md](SECURITY.md).
+
+---
+
 ## License
 
 > *👉 REQUIRED:*
@@ -90,8 +97,8 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 >   - *[Smart License Recommendation](https://licensehub.org/en/tools/selector)*
 >   - *[License Template Generator](https://licensehub.org/en/tools/generator)*
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details or visit [LicenseHub](https://licensehub.org/en) to view the plain-language summary of this license.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Visit [LicenseHub](https://licensehub.org) to view the plain-language summary of this license.
 
-Copyright (c) His Majesty the King in Right of Canada, as represented by the Minister of Agriculture and Agri-Food, 2025.
+**Copyright (c)** His Majesty the King in Right of Canada, as represented by the Minister of Agriculture and Agri-Food, 2025.
 
 ---
