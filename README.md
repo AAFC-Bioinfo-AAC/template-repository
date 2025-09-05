@@ -54,7 +54,7 @@ The following files were adapted from the [Template for Government of Canada ope
 
 ## Citation
 
-> 👉 REQUIRED section: Provide instructions on how to cite this repository, ideally by including a [CITATION.cff](CITATION.cff) file, a standardized metadata file stored in a GitHub repository that helps ensure consistent citations. Tools like Zenodo and some GitHub features use this file to display or generate citation information automatically.  
+> 👉 REQUIRED section: Include citation instructions, ideally via a [CITATION.cff](CITATION.cff) file, which enables GitHub and tools like Zenodo to generate standardized citations automatically.
 
 To cite this project, click the **`Cite this repository`** button on the right-hand sidebar.
 
