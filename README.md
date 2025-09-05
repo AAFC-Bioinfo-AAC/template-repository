@@ -46,7 +46,7 @@ For technical details, including installation and usage instructions, please see
 
 ## Credits
 
-> 👉 REQUIRED: Provide acknowledgements to contributors and collaborators. Use a [CREDITS.md](CREDITS.md) to provide a detailed list of individual contributions, keeping the README concise and bilingual. Where applicable, use of AI-Generated content may be declared. 
+> 👉 REQUIRED: Provide acknowledgements to contributors and collaborators. Use a [CREDITS.md](CREDITS.md) to provide a detailed list of individual contributions, keeping the README concise and bilingual. Where applicable, use of AI-Generated content may be declared.
 
 This project was developed by the **ABCC core team**. For a list of individual contributions, see [CREDITS.md](CREDITS.md) file.
 
@@ -82,9 +82,15 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
 ## License
 
-> 👉 REQUIRED: Provide license information below and select LICENSE file, changing from the default MIT included here where required. Add copyright statement in License file and here too for visibility.
+> 👉 REQUIRED:
+>
+> - Provide license information below and [select LICENSE file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository), changing from the default MIT included here where required.
+> - Add copyright statement in the License file and here too for visibility.
+> - Check out the following tools from [LicenseHub](https://licensehub.org) for:
+>   - [Smart License Recommendation](https://licensehub.org/en/tools/selector)
+>   - [License Template Generator](https://licensehub.org/en/tools/generator)
 
-This project is distributed under the MIT License. See [LICENSE](LICENSE) file for details, or visit [LicenseHub](https://licensehub.org/en) for a plain language summary.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details or visit [LicenseHub](https://licensehub.org/en) to view the plain-language summary of this license.
 
 Copyright (c) His Majesty the King in Right of Canada, as represented by the Minister of Agriculture and Agri-Food, 2025.
 
