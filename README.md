@@ -36,13 +36,13 @@ The following files were adapted from the [Template for Government of Canada ope
 
 🤖 This project includes content generated with the assistance of AI models. All AI-generated material has been reviewed, verified, and, where necessary, refined by the project team to ensure accuracy.
 
-
-
 ---
 
 ## Citation
 
-*Required section: Provide instructions on how to cite this repository, ideally by including a CITATION.cff file. The CITATION.cff is a standardized metadata file stored in a GitHub repository that helps ensure consistent citations. Tools like Zenodo and some GitHub features use this file to display or generate citation information automatically.*
+> ────────────────────────────────  
+> 👉 [Required section] Provide instructions on how to cite this repository, ideally by including a [CITATION.cff](CITATION.cff) file, a standardized metadata file stored in a GitHub repository that helps ensure consistent citations. Tools like Zenodo and some GitHub features use this file to display or generate citation information automatically.  
+> ────────────────────────────────
 
 To cite this project, click the **`Cite this repository`** button on the right-hand sidebar.
 
