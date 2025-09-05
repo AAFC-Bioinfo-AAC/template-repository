@@ -1,9 +1,13 @@
+<!-- omit in toc -->
+# USER GUIDE
 
+*Feel free to adjust this template to suit your needs, while ensuring that all information necessary for reproducibility is included.*
+
+<!-- omit in toc -->
 ## Table of Contents
 
-*Example **Table of Contents** (may optionally be placed above the **About** section):*
+*Example **Table of Contents**:*
 
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Data](#data)
 - [Parameters](#parameters)
