@@ -4,17 +4,21 @@
 [![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
-> ────────────────────────────────  
+---
+
 > 👉 NOTE:  
-> The README should be maintained in both English (README.md) and French (README_FR.md), and be linked to the language badges above. You may adapt the README template as needed, provided the content described under all required sections below are included. For instance, if the content is brief, the four sections - Credits, Citation, Contribution, and References - may be consolidated into a single section titled Acknowledgements.
 >
-> Technical documentation necessary for usage and reproducibility should reside outside the README, such as in `docs/user-guide.md`, and that document may be maintained in either language, or both, where resources allow and demand exists.
->
-> For useful tips on preparing the README and technical documentation, see: [Template Repository User Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md)  
-> ────────────────────────────────
+> - The README should be maintained in both English ([README.md](README.md)) and French ([README_FR.md](README_FR.md)), and be linked to the language badges above.
+> - The README template may be adapted as needed, provided the content under the sections indicated below as required are included. For instance, if the combined content is brief, the four sections - *Credits, Citation, Contribution, References* - may be consolidated into a single section titled *Acknowledgements*.
+> - All technical documentation should reside outside the README, such as in `docs/user-guide.md`, which may be maintained in either English or French, or where resources allow and demand exists, in both languages.
+> - See [Template Repository User Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md) for tips on preparing the README and technical documentation.
+
+---
 
 <!-- omit in toc -->
 ## Table of Contents
+
+> 👉 OPTIONAL: may be omitted if the overall content is brief.
 
 - [About](#about)
 - [Documentation](#documentation)
