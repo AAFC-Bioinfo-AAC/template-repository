@@ -3,15 +3,22 @@
 [![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
+> ────────────────────────────────  
+> 👉 NOTE:  
+> The README is to be maintained in both EN (README.md) and FR (README_FR.md). Feel free to adjust the README template to suit your needs, while ensuring that the content in required sections are included.
+>
+> Documentation necessary for usage and reproducibility should reside outside the README, such as in `docs/user-guide.md`, and that document may be maintained in either EN or FR (or both where resources allow).
+>
+> For more tips, see: [Template Repository User Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md)  
+> ────────────────────────────────
+
 ## About
 
-*Required section: Provide a summary, purpose, and key features of the project.*
-
-*Example **About**:*
+> ────────────────────────────────  
+> 👉 [Required section] Provide a summary, purpose, and key features of the project.  
+> ────────────────────────────────
 
 This repository serves as a template for creating reproducible and customizable data processing workflows. It is designed to help researchers and developers quickly set up new projects by providing modular and parameterized components that can be easily adapted to different use cases. The template may be customized, adding/removing sections as needed, while maintaining good documentation.
-
-For more info, refer: [Template Repository User Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md)
 
 ---
 
