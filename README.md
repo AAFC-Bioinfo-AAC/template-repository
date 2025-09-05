@@ -24,13 +24,19 @@ This repository serves as a template for creating reproducible and customizable 
 
 ## Credits
 
-*Required section: Provide acknowledgements to contributors and collaborators, and where applicable, a notice of AI-Generated Content. If needed, use a CREDITS.md file to list individual contributions.*
+> ────────────────────────────────  
+> 👉 [Required section] Provide acknowledgements to contributors and collaborators.  
+> Where applicable, use of AI-Generated Content may be declared.  
+> Use a [CREDITS.md](CREDITS.md) to provide a detailed list of individual contributions, keeping the README concise.
+> ────────────────────────────────
 
-This project was developed by the **ABCC core team**. For a list of individual contributions, see CREDITS.md[CREDITS.md] file.
+This project was developed by the **ABCC core team**. For a list of individual contributions, see [CREDITS.md](CREDITS.md) file.
 
-This project includes content generated with the assistance of AI models. All AI-generated material has been reviewed, verified, and, where necessary, refined by the project team to ensure accuracy.
+The following files were adapted from the [Template for Government of Canada open source code repositories](https://github.com/canada-ca/template-gabarit): `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md` and `SECURITY.md`.
 
-The following files were adapted from the [Template for Government of Canada open source code repositories](https://github.com/canada-ca/template-gabarit): CODE_OF_CONDUCT.md, CONTRIBUTING.md and SECURITY.md.
+🤖 This project includes content generated with the assistance of AI models. All AI-generated material has been reviewed, verified, and, where necessary, refined by the project team to ensure accuracy.
+
+
 
 ---
 
