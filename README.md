@@ -3,8 +3,6 @@
 [![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## About
 
 *Provide a summary, purpose, and key features of the project.*
