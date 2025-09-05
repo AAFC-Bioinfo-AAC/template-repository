@@ -4,8 +4,6 @@
 [![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
----
-
 > ℹ️ *NOTES*
 >
 > - *The README should be maintained in both English ([README.md](README.md)) and French ([README_FR.md](README_FR.md)), and be linked to the language badges above.*
@@ -27,6 +25,8 @@
 - [Contribution](#contribution)
 - [References](#references)
 - [License](#license)
+
+---
 
 ## About
 
