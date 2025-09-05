@@ -45,7 +45,7 @@ If you would like to contribute to this project, please review the guidelines in
 
 ## References
 
-*Provide references to key publications and any useful resources for tools/software used via a CITATIONS.md file.*
+*Provide references to key resources (publications, tools, software) used via a REFERENCES.md file.*
 
 For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
