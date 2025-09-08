@@ -99,8 +99,9 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 >   - *[Smart License Recommendation](https://licensehub.org/en/tools/selector)*
 >   - *[License Template Generator](https://licensehub.org/en/tools/generator)*
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Visit [LicenseHub](https://licensehub.org) to view the plain-language summary of this license.
+See the [LICENSE](LICENSE) file for details. Visit [LicenseHub](https://licensehub.org) to view the plain-language summary of this license.
 
 **Copyright (c)** His Majesty the King in Right of Canada, as represented by the Minister of Agriculture and Agri-Food, 2025.
 
 ---
+
