@@ -99,6 +99,7 @@ Pour une liste des principales ressources utilisées ici, voir le fichier [REFER
 >   - *[Recommandation Intelligente de Licence](https://licensehub.org/fr/tools/selector)*  
 >   - *[Générateur de modèle de licence](https://licensehub.org/fr/tools/generator)*  
 
-Ce projet est sous licence MIT – voir le fichier [LICENSE](LICENSE) pour plus de détails. Visitez [LicenseHub](https://licensehub.org/fr) pour consulter un résumé en langage clair de cette licence.  
+Voir le fichier [LICENSE](LICENSE) pour plus de détails. Visitez [LicenseHub](https://licensehub.org/fr) pour consulter un résumé en langage clair de cette licence.  
 
 **Droit d’auteur (c)** Sa Majesté le Roi du chef du Canada, représenté par le ministre de l’Agriculture et de l’Agroalimentaire, 2025.
+
