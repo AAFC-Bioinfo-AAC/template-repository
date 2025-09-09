@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# ABCC_TEMPLATE
+# REPOSITORY NAME
 
 [![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
