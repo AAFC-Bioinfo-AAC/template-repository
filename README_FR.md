@@ -102,7 +102,7 @@ Pour une liste des ressources clés utilisées ici, voir [REFERENCES.md](REFEREN
 >   - *[Recommandation intelligente de licence](https://licensehub.org/fr/tools/selector)*  
 >   - *[Générateur de modèle de licence](https://licensehub.org/fr/tools/generator)*  
 
-Voir le fichier [LICENSE](LICENSE) pour plus de détails. Consultez [LicenseHub](https://licensehub.org/fr) pour une version simplifiée en langage clair de cette licence.  
+Voir le fichier [LICENSE](LICENSE) pour plus de détails. Visitez [LicenseHub](https://licensehub.org/fr) ou [tl;drLegal](https://www.tldrlegal.com) pour consulter un résumé en langage clair de cette licence.
 
 **Copyright (c)** Sa Majesté le Roi du chef du Canada, représentée par le ministre de l’Agriculture et de l’Agroalimentaire, 2025.  
 
