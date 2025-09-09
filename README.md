@@ -75,7 +75,7 @@ Contributions are welcome! Please review the guidelines in [CONTRIBUTING.md](CON
 
 ## References
 
-> 👉 *REQUIRED: Provide references to key resources (publications, tools, software). Use a [REFERENCES.md](REFERENCES.md) file to keep README concise and bilingual.*
+> 👉 *REQUIRED: Provide references to key resources (publications, tools, software). Use a [REFERENCES.md](REFERENCES.md) file to keep README concise.*
 
 For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
 
