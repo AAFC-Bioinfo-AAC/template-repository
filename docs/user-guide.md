@@ -30,7 +30,7 @@
 
 ## Overview
 
-> 👉 *Provide a high-level process summary with an optional workflow diagram, created using [Mermaid Diagramming and charting tool](https://mermaid.js.org/) and tested [here](https://www.mermaidchart.com/play).*
+> 👉 *Provide a high-level process summary with an optional workflow diagram, created using [Mermaid Diagramming and charting tool](https://mermaid.js.org/) and its [test playground](https://www.mermaidchart.com/play).*
 
 This project implements a generic pipeline for data ingestion, processing, and analysis. It can be customized to suit different types of workflows.
 
