@@ -47,9 +47,9 @@ For technical details, including installation and usage instructions, please see
 
 ## Credits
 
-> 👉 *REQUIRED: Provide acknowledgements to contributors and collaborators. Use a [CREDITS.md](CREDITS.md) to provide a detailed list of individual contributions, keeping the README concise and bilingual. Where applicable, use of AI-Generated content may be declared.*
+> 👉 *REQUIRED: Acknowledge all contributors and collaborators, and disclose any use of AI-generated content where applicable. If a detailed breakdown of individual contributions is needed, use a [CREDITS.md](CREDITS.md) file to keep the README concise.*
 
-This project was developed by the **ABCC core team**. For a list of individual contributions, see [CREDITS.md](CREDITS.md) file.
+This template was developed by the **ABCC project team**. For a list of individual contributions, see [CREDITS.md](CREDITS.md) file.
 
 The following files were adapted from the [Template for Government of Canada open source code repositories](https://github.com/canada-ca/template-gabarit): `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md` and `SECURITY.md`.
 
