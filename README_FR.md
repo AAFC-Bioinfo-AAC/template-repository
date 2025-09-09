@@ -1,22 +1,22 @@
 <!-- omit in toc -->
-# ABCC_TEMPLATE
+# NOM DU RÉPERTOIRE
 
-[![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)
+[![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)  
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
 > ℹ️ *NOTES*  
 >
-> - *Le README doit être maintenu à la fois en anglais ([README.md](README.md)) et en français ([README_FR.md](README_FR.md)), et être lié aux badges de langue ci-dessus.*  
-> - *Le modèle de README peut être adapté selon les besoins, à condition d’inclure le contenu des sections indiquées ci-dessous comme obligatoires. Par exemple, si le contenu combiné est bref, les quatre sections – **Crédits, Citation, Contribution, Références** – peuvent être regroupées en une seule section intitulée **Remerciements**.*  
-> - *Toute la documentation technique doit se trouver à l’extérieur du README, par exemple dans `docs/user-guide.md`, qui peut être maintenue en anglais ou en français, ou, lorsque les ressources le permettent et que la demande existe, dans les deux langues.*  
-> - *Voir [Guide d’utilisation du dépôt modèle](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md) pour des conseils sur la préparation du README et de la documentation technique.*  
+> - *Le fichier README doit être maintenu en anglais ([README.md](README.md)) et en français ([README_FR.md](README_FR.md)), et lié aux badges de langue ci-dessus.*  
+> - *Toute la documentation technique doit se trouver en dehors du README, par exemple dans un guide d’utilisation dédié ([docs/user-guide.md](/docs/user-guide.md)), qui peut être rédigé en anglais ou en français, ou, lorsque les ressources et la demande le permettent, dans les deux langues.*  
+> - *Les instructions pour préparer le README et la documentation technique sont fournies dans chaque fichier sous les en-têtes de section (👉 en italique), suivis d’un exemple de contenu. Des conseils supplémentaires sont disponibles dans le [Guide d’utilisation du dépôt modèle](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md).*  
+> - *Le format du modèle README a été conçu de manière à ce que, dans la plupart des cas, seules les sections `À propos` et `Crédits` aient besoin d’être remplacées par l’utilisateur. Toutefois, le format peut être modifié/adapté au besoin, à condition d’inclure le contenu indiqué ci-dessous comme requis. Par exemple, si le contenu combiné est bref, les quatre sections – `Crédits`, `Citation`, `Contribution` et `Références` – peuvent être regroupées dans une seule section intitulée `Remerciements`.*  
 
 ---
 
 <!-- omit in toc -->
 ## Table des matières
 
-> 👉 *OPTIONNEL : peut être omis si le contenu global est bref.*  
+> 👉 *OPTIONNEL : peut être omis si le contenu global est bref.*
 
 - [À propos](#à-propos)
 - [Documentation](#documentation)
@@ -31,29 +31,29 @@
 
 ## À propos
 
-> 👉 *OBLIGATOIRE : Fournir un résumé, l’objectif et les principales caractéristiques du projet.*  
+> 👉 *OBLIGATOIRE : Fournir un résumé, l’objectif et les principales fonctionnalités du projet.*  
 
-Ce dépôt sert de modèle pour créer des flux de travail de traitement de données reproductibles et personnalisables. Il est conçu pour aider les chercheurs et les développeurs à configurer rapidement de nouveaux projets en fournissant des composants modulaires et paramétrés, facilement adaptables à différents cas d’utilisation. Le modèle peut être personnalisé en ajoutant/supprimant des sections selon les besoins, tout en maintenant une bonne documentation.  
+Ce dépôt sert de modèle pour créer des flux de travail reproductibles et personnalisables de traitement de données. Il est conçu pour aider les chercheurs et développeurs à configurer rapidement de nouveaux projets en fournissant des composants modulaires et paramétrés, facilement adaptables à différents cas d’utilisation. Le modèle peut être personnalisé en ajoutant/supprimant des sections selon les besoins, tout en maintenant une bonne documentation.  
 
 ---
 
 ## Documentation
 
-> 👉 *OBLIGATOIRE : Fournir tous les détails techniques du projet dans un document distinct lié ici.*  
+> 👉 *OBLIGATOIRE : Fournir tous les détails techniques du projet dans un document séparé et créer un lien ici.*  
 
-Pour les détails techniques, y compris les instructions d’installation et d’utilisation, veuillez consulter le [Guide de l’utilisateur](/docs/user-guide.md).  
+Pour les détails techniques, y compris l’installation et les instructions d’utilisation, veuillez consulter le [Guide de l’utilisateur](/docs/user-guide.md).  
 
 ---
 
 ## Crédits
 
-> 👉 *OBLIGATOIRE : Fournir des remerciements aux contributeurs et collaborateurs. Utiliser un fichier [CREDITS.md](CREDITS.md) pour donner une liste détaillée des contributions individuelles, tout en gardant le README concis et bilingue. Le cas échéant, l’utilisation de contenu généré par IA peut être déclarée.*  
+> 👉 *OBLIGATOIRE : Mentionner tous les contributeurs et collaborateurs, et déclarer l’utilisation de contenu généré par IA le cas échéant. Si une ventilation détaillée des contributions individuelles est nécessaire, utiliser un fichier [CREDITS.md](CREDITS.md) pour garder le README concis.*  
 
-Ce projet a été développé par l’**équipe centrale ABCC**. Pour une liste des contributions individuelles, voir le fichier [CREDITS.md](CREDITS.md).  
+Ce modèle a été développé par l’**équipe du projet ABCC**. Pour une liste des contributions individuelles, voir [CREDITS.md](CREDITS.md).  
 
-Les fichiers suivants ont été adaptés du [Modèle pour les dépôts de code source ouvert du gouvernement du Canada](https://github.com/canada-ca/template-gabarit) : `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md` et `SECURITY.md`.  
+Les fichiers suivants ont été adaptés à partir du [Gabarit pour dépôts de code source ouvert du gouvernement du Canada](https://github.com/canada-ca/template-gabarit?tab=readme-ov-file#gabarit-pour-d%C3%A9p%C3%B4ts-de-code-source-ouvert-du-gouvernement-du-canada) : `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md` et `SECURITY.md`.  
 
-🤖 Ce projet inclut du contenu généré avec l’aide de modèles d’IA. Tout le matériel généré par IA a été révisé, vérifié et, si nécessaire, modifié par l’équipe de projet afin d’en assurer l’exactitude.  
+🤖 Ce projet inclut du contenu généré avec l’aide de modèles d’IA. Tout le matériel généré par IA a été revu, vérifié et, si nécessaire, affiné par l’équipe de projet afin d’en assurer l’exactitude.  
 
 ---
 
@@ -61,7 +61,7 @@ Les fichiers suivants ont été adaptés du [Modèle pour les dépôts de code s
 
 > 👉 *OBLIGATOIRE : Inclure les instructions de citation, idéalement via un fichier [CITATION.cff](CITATION.cff), qui permet à GitHub et à des outils comme Zenodo de générer automatiquement des citations normalisées.*  
 
-Pour citer ce projet, cliquez sur le bouton **`Cite this repository`** dans la barre latérale de droite.  
+Pour citer ce projet, cliquez sur le bouton **`Cite this repository`** dans la barre latérale droite.  
 
 ---
 
@@ -75,17 +75,17 @@ Les contributions sont les bienvenues ! Veuillez consulter les lignes directrice
 
 ## Références
 
-> 👉 *OBLIGATOIRE : Fournir des références aux ressources clés (publications, outils, logiciels). Utiliser un fichier [REFERENCES.md](REFERENCES.md) pour garder le README concis et bilingue.*  
+> 👉 *OBLIGATOIRE : Fournir des références aux ressources clés (publications, outils, logiciels). Utiliser un fichier [REFERENCES.md](REFERENCES.md) pour garder le README concis.*  
 
-Pour une liste des principales ressources utilisées ici, voir le fichier [REFERENCES.md](REFERENCES.md).  
+Pour une liste des ressources clés utilisées ici, voir [REFERENCES.md](REFERENCES.md).  
 
 ---
 
 ## Sécurité
 
-> 👉 *OBLIGATOIRE
+> *👉 OBLIGATOIRE :*  
 
-⚠️ Ne publiez aucun problème de sécurité sur le dépôt public ! Veuillez les signaler comme décrit dans [SECURITY.md](SECURITY.md).  
+⚠️ Ne publiez aucun problème de sécurité sur le dépôt public ! Veuillez les signaler tel que décrit dans [SECURITY.md](SECURITY.md).  
 
 ---
 
@@ -93,13 +93,14 @@ Pour une liste des principales ressources utilisées ici, voir le fichier [REFER
 
 > *👉 OBLIGATOIRE :*  
 >
-> - *Fournir les informations sur la licence ci-dessous et [ajouter un fichier LICENSE](https://docs.github.com/fr/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository), si différent de la licence MIT incluse par défaut.*  
-> - *Ajouter/mettre à jour la déclaration de droit d’auteur dans le fichier de licence et ici aussi pour plus de visibilité.*  
-> - *Outils utiles de [LicenseHub](https://licensehub.org/fr) :*  
->   - *[Recommandation Intelligente de Licence](https://licensehub.org/fr/tools/selector)*  
->   - *[Générateur de modèle de licence](https://licensehub.org/fr/tools/generator)*  
+> - *Fournir les informations de licence ci-dessous et [ajouter un fichier LICENSE](https://docs.github.com/fr/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository), si différent de la licence MIT par défaut incluse ici.*  
+> - *Ajouter/mettre à jour la déclaration de droits d’auteur dans le fichier Licence et également ici pour plus de visibilité.*  
+> - *Outils utiles de [LicenseHub](https://licensehub.org):*  
+>   - *[Recommandation intelligente de licence](https://licensehub.org/en/tools/selector)*  
+>   - *[Générateur de modèle de licence](https://licensehub.org/en/tools/generator)*  
 
-Voir le fichier [LICENSE](LICENSE) pour plus de détails. Visitez [LicenseHub](https://licensehub.org/fr) pour consulter un résumé en langage clair de cette licence.  
+Voir le fichier [LICENSE](LICENSE) pour plus de détails. Consultez [LicenseHub](https://licensehub.org) pour une version simplifiée en langage clair de cette licence.  
 
-**Droit d’auteur (c)** Sa Majesté le Roi du chef du Canada, représenté par le ministre de l’Agriculture et de l’Agroalimentaire, 2025.
+**Copyright (c)** Sa Majesté le Roi du chef du Canada, représentée par le ministre de l’Agriculture et de l’Agroalimentaire, 2025.  
 
+---
