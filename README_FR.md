@@ -18,8 +18,8 @@
 
 > 👉 *OPTIONNEL :
 >
-> - La table des matières (TOC) peut être omise si le contenu global est bref.  
-> - La TOC peut être générée automatiquement, par exemple en exécutant la commande [Create Table of Contents](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) dans l’extension VSCode `Markdown All in One`. Pour exclure un en-tête de l’inclusion dans la TOC générée automatiquement, ajoutez `<!-- omit in toc -->` à la fin de cet en-tête ou juste au-dessus. La TOC sera mise à jour automatiquement chaque fois que le fichier est enregistré après une modification des en-têtes.*  
+> - La table des matières (TOC) peut être omise si le contenu global est bref.
+> - La table des matières (TOC) peut être générée automatiquement, par exemple en exécutant la commande [Create Table of Contents](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) dans l’extension VSCode `Markdown All in One`. Pour exclure un en-tête de la TOC générée automatiquement, ajoutez `<!-- omit in toc -->` à la fin de cet en-tête ou juste au-dessus. La TOC sera mise à jour automatiquement chaque fois que le fichier est enregistré après des modifications dans les en-têtes.*  
 
 - [À propos](#à-propos)
 - [Documentation](#documentation)
