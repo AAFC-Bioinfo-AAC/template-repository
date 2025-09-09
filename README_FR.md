@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # NOM DU RÉPERTOIRE
 
-[![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)  
+[![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
 > ℹ️ *NOTES*  
@@ -95,11 +95,11 @@ Pour une liste des ressources clés utilisées ici, voir [REFERENCES.md](REFEREN
 >
 > - *Fournir les informations de licence ci-dessous et [ajouter un fichier LICENSE](https://docs.github.com/fr/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository), si différent de la licence MIT par défaut incluse ici.*  
 > - *Ajouter/mettre à jour la déclaration de droits d’auteur dans le fichier Licence et également ici pour plus de visibilité.*  
-> - *Outils utiles de [LicenseHub](https://licensehub.org):*  
->   - *[Recommandation intelligente de licence](https://licensehub.org/en/tools/selector)*  
->   - *[Générateur de modèle de licence](https://licensehub.org/en/tools/generator)*  
+> - *Outils utiles de [LicenseHub](https://licensehub.org/fr):*  
+>   - *[Recommandation intelligente de licence](https://licensehub.org/fr/tools/selector)*  
+>   - *[Générateur de modèle de licence](https://licensehub.org/fr/tools/generator)*  
 
-Voir le fichier [LICENSE](LICENSE) pour plus de détails. Consultez [LicenseHub](https://licensehub.org) pour une version simplifiée en langage clair de cette licence.  
+Voir le fichier [LICENSE](LICENSE) pour plus de détails. Consultez [LicenseHub](https://licensehub.org/fr) pour une version simplifiée en langage clair de cette licence.  
 
 **Copyright (c)** Sa Majesté le Roi du chef du Canada, représentée par le ministre de l’Agriculture et de l’Agroalimentaire, 2025.  
 
