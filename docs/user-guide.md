@@ -5,7 +5,7 @@
 >
 > - *Feel free to adjust this template to suit your needs, while ensuring that all information necessary for reproducibility is included.*
 > - *This document may be maintained in either English or French, or where resources allow and demand exists, in both languages.*
-> - *Instructions on preparing this document are provided under section headers (👉 in italics) followed by an example content. Additional tips are provided in the [Template Repository User Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md).*
+> - *Instructions on preparing this document are provided under section headers (👉 in italics) followed by an example content.
 
 ---
 
@@ -43,9 +43,7 @@ This project implements a generic pipeline for data ingestion, processing, and a
 
 ## Data
 
-*Provide information on input data formats, structure, and sources.*
-
-*Example Data:*
+> 👉 *Provide information on input data formats, structure, and sources.*
 
 - **Dataset 1**: FASTQ reads retrieved from NCBI on 2025-01-01.
 - **Dataset 2**: Reference genome in FASTA format from Ensembl, downloaded on 2025-01-01.
@@ -60,7 +58,7 @@ curl -O https://example.com/path/to/dataset1.tar.gz
 
 ## Parameters
 
-*Provide details or a table of configuration options and their descriptions.*
+> 👉 *Provide details or a table of configuration options and their descriptions.*
 
 *Example Parameters:*
 
