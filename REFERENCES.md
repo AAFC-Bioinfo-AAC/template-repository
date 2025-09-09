@@ -1,5 +1,7 @@
 # References
 
+> *👉 Customize the headers to best reflect the reference content.*
+
 ## Papers
 
 - Article citation with DOI.
