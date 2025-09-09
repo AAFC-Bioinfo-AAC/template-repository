@@ -41,7 +41,7 @@ This repository serves as a template for creating reproducible and customizable 
 
 > 👉 *REQUIRED: Provide all technical details of the project in a separate document and link it here.*
 
-For technical details, including installation and usage instructions, please see the [User Guide](/docs/user-guide.md).
+For technical details, including installation and usage instructions, please refer to the [User Guide](/docs/user-guide.md).
 
 ---
 
@@ -49,7 +49,7 @@ For technical details, including installation and usage instructions, please see
 
 > 👉 *REQUIRED: Acknowledge all contributors and collaborators, and disclose any use of AI-generated content where applicable. If a detailed breakdown of individual contributions is needed, use a [CREDITS.md](CREDITS.md) file to keep the README concise.*
 
-This template was developed by the **ABCC project team**. For a list of individual contributions, see [CREDITS.md](CREDITS.md) file.
+This template was developed by the **ABCC project team**. For a list of individual contributions, see [CREDITS.md](CREDITS.md).
 
 The following files were adapted from the [Template for Government of Canada open source code repositories](https://github.com/canada-ca/template-gabarit): `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md` and `SECURITY.md`.
 
@@ -77,7 +77,7 @@ Contributions are welcome! Please review the guidelines in [CONTRIBUTING.md](CON
 
 > 👉 *REQUIRED: Provide references to key resources (publications, tools, software). Use a [REFERENCES.md](REFERENCES.md) file to keep README concise.*
 
-For a list of key resources used here, see [REFERENCES.md](REFERENCES.md) file.
+For a list of key resources used here, see [REFERENCES.md](REFERENCES.md).
 
 ---
 
