@@ -8,7 +8,7 @@
 >
 > - *The README should be maintained in both English ([README.md](README.md)) and French ([README_FR.md](README_FR.md)), and be linked to the language badges above.*
 > - *All technical documentation should reside outside the README, such as in a dedicated user guide ([docs/user-guide.md](/docs/user-guide.md)), which may be maintained in either English or French, or where resources allow and demand exists, in both languages.*
-> - *Instructions on preparing the README and technical documentation are provided below each section header (👉 in italics) followed by an example content. Additional tips are provided in the [Template Repository User Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md).*
+> - *Instructions on preparing the README and technical documentation are provided within each file under section headers (👉 in italics) followed by an example content. Additional tips are provided in the [Template Repository User Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md).*
 > - *The format of the README template has been designed such that in most use cases, only the `About` and `Credits` sections need be replaced by the user. However, the format may be changed/adapted as needed, provided the content under the sections indicated below as required are included. For instance, if the combined content is brief, the four sections - `Credits`, `Citation`, `Contribution`, and `References` - may be consolidated into a single section titled `Acknowledgements`.*
 
 ---
