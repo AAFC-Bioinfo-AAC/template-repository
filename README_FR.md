@@ -6,9 +6,9 @@
 
 > ℹ️ *REMARQUES :*  
 >
-> - *Le fichier README doit être maintenu en anglais ([README.md](README.md)) et en français ([README_FR.md](README_FR.md)), et lié aux badges de langue ci-dessus.*  
+> - *Le fichier README doit être maintenu en anglais ([README.md](README.md)) et en français ([README_FR.md](README_FR.md)), et lié aux badges de langue ci-dessus (généré à l’aide de [Shields.io](https://shields.io/)).*  
 > - *Toute la documentation technique doit se trouver en dehors du README, par exemple dans un guide d’utilisation dédié ([docs/user-guide.md](/docs/user-guide.md)), qui peut être rédigé en anglais ou en français, ou, lorsque les ressources et la demande le permettent, dans les deux langues.*  
-> - *Les instructions pour préparer le README et la documentation technique sont fournies dans chaque fichier sous les en-têtes de section (👉 en italique), suivis d’un exemple de contenu. Des conseils supplémentaires sont disponibles dans le [Guide d’utilisation du dépôt modèle](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md).*  
+> - *Les instructions pour préparer le README et la documentation technique sont fournies dans chaque fichier sous les en-têtes de section (👉 en italique), suivis d’un exemple de contenu.*  
 > - *Le format du modèle README a été conçu de manière à ce que, dans la plupart des cas, seules les sections `À propos` et `Crédits` aient besoin d’être remplacées par l’utilisateur. Toutefois, le format peut être modifié/adapté au besoin, à condition d’inclure le contenu indiqué ci-dessous comme requis. Par exemple, si le contenu combiné est bref, les quatre sections – `Crédits`, `Citation`, `Contribution` et `Références` – peuvent être regroupées dans une seule section intitulée `Remerciements`.*  
 
 ---
