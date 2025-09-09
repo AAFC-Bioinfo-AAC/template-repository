@@ -4,7 +4,7 @@
 [![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
-> ℹ️ *NOTES*
+> ℹ️ *NOTES:*
 >
 > - *The README should be maintained in both English ([README.md](README.md)) and French ([README_FR.md](README_FR.md)), and be linked to the language badges above.*
 > - *All technical documentation should reside outside the README, such as in a dedicated user guide ([docs/user-guide.md](/docs/user-guide.md)), which may be maintained in either English or French, or where resources allow and demand exists, in both languages.*
@@ -83,7 +83,7 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md).
 
 ## Security
 
-> *👉 REQUIRED:*
+> *👉 REQUIRED: Keep as is.*
 
 ⚠️ Do not post any security issues on the public repository! Please report them as described in [SECURITY.md](SECURITY.md).
 
