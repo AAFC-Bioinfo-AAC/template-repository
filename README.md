@@ -39,7 +39,7 @@ This repository serves as a template for creating reproducible and customizable 
 
 ## Documentation
 
-> 👉 *REQUIRED: Provide all technical details of the project in a separate document linked here.*
+> 👉 *REQUIRED: Provide all technical details of the project in a separate document and link it here.*
 
 For technical details, including installation and usage instructions, please see the [User Guide](/docs/user-guide.md).
 
