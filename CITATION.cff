@@ -11,9 +11,9 @@ authors:
     affiliation: 
 abstract: >
   AAFC Bioinformatics Code Catalogue (ABCC) template repository provides a modular and extensible framework for developing 
-  reproducible data analysis pipelines within the [AAFC-Bioinfo-AAC GitHub organization](https://github.com/AAFC-Bioinfo-AAC?view_as=public).
-  It enables researchers and developers to quickly set up new projects using parameterized, reusable components that can be
-  easily adapted to diverse use cases.
+  reproducible data analysis pipelines within the [AAFC-Bioinfo-AAC](https://github.com/AAFC-Bioinfo-AAC?view_as=public)
+  GitHub organization. It enables researchers and developers to quickly set up new projects using parameterized, reusable
+  components that can be easily adapted to diverse use cases.
 license: MIT
 repository-code: https://github.com/AAFC-Bioinfo-AAC/template-repository
 keywords:
