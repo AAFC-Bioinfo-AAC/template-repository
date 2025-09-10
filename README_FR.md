@@ -1,219 +1,95 @@
-# MODÈLE DE DÉPÔT
+<!-- omit in toc -->
+# NOM DU RÉPERTOIRE
 
 [![FR](https://img.shields.io/badge/lang-FR-yellow.svg)](README_FR.md)
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+> ℹ️ *Les badges de langue ci-dessus (créés avec [Shields.io](https://shields.io/)) renvoient aux fichiers README, à maintenir en anglais ([README.md](README.md)) et en français ([README_FR.md](README_FR.md)). Voir les instructions (👉 en italique) et le contenu d’exemple fourni sous chaque en-tête de section ci-dessous. Le format du modèle de README a été conçu de manière à ce que, dans la plupart des cas, seules les sections `À propos` et `Crédits` doivent être remplacées et adaptées aux projets de l’utilisateur, en gardant toutes les autres sections telles quelles. Toutefois, le format peut être modifié/adapté au besoin, à condition que le contenu des sections indiquées comme obligatoires soit inclus. Par exemple, si le contenu combiné est bref, les quatre sections – `Crédits`, `Citation`, `Contribution` et `Références` – peuvent être regroupées dans une seule section intitulée `Remerciements`.*
+
+---
+
+<!-- omit in toc -->
+## Table des matières
+
+> 👉 *OPTIONNEL : La table des matières (TDM) peut être omise si le contenu global est bref. La TDM peut être facilement générée automatiquement, par exemple en exécutant la commande [Create Table of Contents](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one#table-of-contents) dans l’extension VSCode `Markdown All in One`. Pour exclure un titre de la TDM générée automatiquement, ajoutez `<!-- omit in toc -->` à la fin de ce titre ou juste au-dessus. La TDM sera mise à jour automatiquement chaque fois que le fichier est enregistré après des modifications des titres.*
+
+- [À propos](#à-propos)
+- [Documentation](#documentation)
+- [Crédits](#crédits)
+- [Citation](#citation)
+- [Contribution](#contribution)
+- [Références](#références)
+- [Sécurité](#sécurité)
+- [Licence](#licence)
+
+---
 
 ## À propos
 
-*Fournissez un résumé, l'objectif et les principales caractéristiques du projet.*
+> 👉 *OBLIGATOIRE : Fournir un résumé, l’objectif et les principales fonctionnalités du projet.*
 
-*Exemple **À propos** :*
-
-Ce dépôt sert de modèle pour créer des flux de travail reproductibles et personnalisables pour le traitement des données. Il est conçu pour aider les chercheurs et développeurs à démarrer rapidement de nouveaux projets en fournissant des composants modulaires et paramétrables qui peuvent être facilement adaptés à différents cas d'utilisation. Le modèle peut être personnalisé, en ajoutant ou retirant des sections au besoin, tout en maintenant une bonne documentation.
-
-Pour plus d'informations, consultez : [Guide d'utilisation du dépôt modèle](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/docs/template-repo-user-guide.md)
+Ce répertoire sert de modèle pour créer des flux de travail reproductibles et personnalisables de traitement de données. Il est conçu pour aider les chercheurs et les développeurs à configurer rapidement de nouveaux projets en fournissant des composants modulaires et paramétrables qui peuvent être facilement adaptés à différents cas d’utilisation. Le modèle peut être personnalisé en ajoutant/supprimant des sections au besoin, tout en maintenant une bonne documentation.
 
 ---
 
-## Table des matières
+## Documentation
 
-*Exemple **Table des matières** (peut aussi être placée avant la section **À propos**) :*
+> 👉 *OBLIGATOIRE : Toute la documentation technique doit être conservée en dehors du README, idéalement dans un dossier `docs` dédié. Les documents techniques peuvent être rédigés en anglais ou en français. Voir [/docs/user-guide.md](/docs/user-guide.md) pour un modèle de `guide de l’utilisateur`. Lorsque les ressources le permettent et que la demande existe, la documentation technique peut être maintenue dans les deux langues, et, dans ce cas, elle peut même être intégrée aux README respectifs.*
 
-- [MODÈLE DE DÉPÔT](#modèle-de-dépôt)
-  - [À propos](#à-propos)
-  - [Table des matières](#table-des-matières)
-  - [Aperçu](#aperçu)
-  - [Données](#données)
-  - [Paramètres](#paramètres)
-  - [Utilisation](#utilisation)
-    - [Prérequis](#prérequis)
-    - [Instructions d'installation](#instructions-dinstallation)
-    - [Notes](#notes)
-  - [Sortie](#sortie)
-  - [Crédits](#crédits)
-  - [Contribution](#contribution)
-  - [Licence](#licence)
-  - [Références](#références)
-    - [Publications](#publications)
-    - [Ressources](#ressources)
-    - [Outils/Logiciels](#outilslogiciels)
-  - [Citation](#citation)
-
----
-
-## Aperçu
-
-*Fournissez un résumé général du processus avec un diagramme de flux optionnel.*
-
-*Exemple **Aperçu** :*
-
-Ce projet implémente un pipeline générique pour l'importation, le traitement et l'analyse des données. Il peut être personnalisé pour convenir à différents types de flux de travail.
-
-*Exemple de diagramme de flux de travail :*
-
-```mermaid
-    flowchart TD
-        A[Fichiers d'entrées du pipeline]-->B{Outil}-->C([Fichiers intermédiaires])-->D{Outil}-->E((Résultats du pipeline))
-```
-
----
-
-## Données
-
-*Fournissez des informations sur les formats, la structure et les sources des données d'entrée.*
-
-*Exemple de **Données** :*
-
-- **Jeu de données 1** : Séquences FASTQ récupérées de NCBI le 2025-01-01.
-- **Jeu de données 2** : Génome de référence au format FASTA d'Ensembl, téléchargé le 2025-01-01.
-
-Pour télécharger les données :
-
-```bash
-curl -O https://example.com/chemin/vers/jeu_de_donnees1.tar.gz
-```
-
----
-
-## Paramètres
-
-*Fournissez des détails ou un tableau des options de configuration et leurs descriptions.*
-
-*Exemple de Paramètres:*
-
-| Paramètre          | Description                                        |
-|--------------------|----------------------------------------------------|
-| `dossier_entree`     | Chemin vers le dossier de données d'entrée.        |
-| `dossier_sortie`    | Chemin vers le dossier où écrire les résultats.    |
-| `activer_journal`   | Journaliser les étapes d'exécution (`true` ou `false`).|
-
----
-
-## Utilisation
-
-*Fournissez des informations sur les prérequis, les instructions d'installation, de configuration et d'exécution du pipeline, ainsi que des notes si nécessaire.*
-
-*Exemple Utilisation:*
-
-### Prérequis
-
-- Conda
-- Python 3.9+
-- Système d'exploitation recommandé: Linux
-
-### Instructions d'installation
-
-1. Cloner le dépôt :
-
-   ```bash
-   git clone https://github.com/your-org/your-repo.git
-   cd your-repo
-   ```
-
-2. Créer l'environnement Conda
-
-   ```bash
-    conda env create -f your-repo/config/environment.yml
-    conda activate conda_env
-   ```
-
-3. Configurer les paramètres du pipeline :
-   Modifiez le fichier `config.yaml` pour spécifier les chemins vers vos données d'entrée et les paramètres désirés si votre pipeline en utilise un.
-
-4. Exécuter le pipeline :
-
-   ```bash
-   python script.py --input input_folder fastq_files --output_folder results
-   ```
-
-### Notes
-
-- Assurez-vous d'avoir suffisamment d'espace disque pour les fichiers temporaires et de sortie.
-
----
-
-## Sortie
-
-*Fournissez le format, l'emplacement et le nom des fichiers de résultats, ainsi qu'une brève description.*
-
-*Exemple de Sorties:*
-
-Les fichiers de sortie incluent :
-
-- `results/reports/summary.csv` : Principales mesures issues de l'analyse.
-- `results/logs/pipeline.log` : Journal étape par étape.
-- `results/plots/visualization.png` : Graphique de sortie.
+Pour les détails techniques, y compris les instructions d’installation et d’utilisation, veuillez consulter le [Guide de l’utilisateur](/docs/user-guide.md).
 
 ---
 
 ## Crédits
 
-*Fournissez des remerciements aux contributeurs et collaborateurs. Indiquez un contact principal, généralement l'administrateur/gestionnaire du dépôt.*
+> 👉 *OBLIGATOIRE : Mentionner tous les contributeurs et collaborateurs, et divulguer tout usage de contenu généré par l’IA, le cas échéant. Si un détail des contributions individuelles est nécessaire, utilisez un fichier [CREDITS.md](CREDITS.md) afin de garder le README concis.*
 
-Développé et maintenu par l'**Équipe ABCC**.
+Ce modèle a été développé par l’**équipe de projet ABCC**. Pour une liste des contributions individuelles, voir [CREDITS.md](CREDITS.md).
 
-Les fichiers suivants ont été adaptés du [Gabarit pour dépôts de code source ouvert du gouvernement du Canada](https://github.com/canada-ca/template-gabarit) :
+Les fichiers suivants ont été adaptés du [Gabarit pour dépôts de code source ouvert du gouvernement du Canada](https://github.com/canada-ca/template-gabarit?tab=readme-ov-file#gabarit-pour-d%C3%A9p%C3%B4ts-de-code-source-ouvert-du-gouvernement-du-canada) : `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md` et `SECURITY.md`.
 
-- CODE_OF_CONDUCT.md
-- CONTRIBUTING.md
-- SECURITY.md
-
-Ce projet inclut du contenu généré par des modèles d'IA, qui a été révisé et vérifié pour l'exactitude par l'équipe du projet.
-
-*Exemple Crédits:*
-
-Les contributeurs incluent :
-
-- Contributeur 1
-- Contributeur 2
-
-**Contact principal :** [Nom]
-
----
-
-## Contribution
-
-*Fournissez des lignes directrices pour contribuer au projet.*
-
-Si vous souhaitez contribuer à ce projet, veuillez consulter les lignes directrices dans [CONTRIBUTING.md](CONTRIBUTING.md) et vous assurer de respecter notre [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) afin de favoriser un environnement respectueux et inclusif.
-
----
-
-## Licence
-
-*Fournissez les informations sur la licence, en modifiant la licence MIT par défaut si nécessaire. Ajoutez la déclaration de droit d'auteur dans la licence.*
-
-Ce projet est distribué sous la licence MIT. Pour tous les détails et les informations sur le droit d'auteur, consultez le fichier [LICENSE](LICENSE).
-
----
-
-## Références
-
-*Fournissez des références aux publications clés et toutes ressources utiles pour les outils/logiciels utilisés. Les citations formelles des outils utilisés peuvent également être fournies par un fichier CITATIONS.md.*
-
-*Exemple Références:*
-
-### Publications
-
-Le pipeline et l'analyse qui y est associée sont publiés ici :
-
-- Titre de votre article publié – Revue, Année.
-
-### Ressources
-
-- Lien vers le manuel Snakemake
-- Lien vers la documentation de l'outil X
-  
-### Outils/Logiciels
-
-Les références aux outils et logiciels utilisés ici se trouvent dans le fichier [CITATIONS.md](CITATIONS.md).
+🤖 Ce projet inclut du contenu généré avec l’aide de modèles d’IA. Tout le matériel généré par IA a été examiné, vérifié et, au besoin, affiné par l’équipe du projet afin d’en assurer l’exactitude.
 
 ---
 
 ## Citation
 
-*Fournissez des instructions sur la façon de citer ce dépôt, idéalement en incluant un fichier CITATION.cff. CITATION.cff est un fichier de métadonnées standardisé stocké dans un dépôt GitHub qui aide à assurer la cohérence des citations. Des outils comme Zenodo et certaines fonctionnalités de GitHub utilisent ce fichier pour afficher ou générer automatiquement les informations de citation.*
+> 👉 *OBLIGATOIRE : Inclure les instructions de citation, idéalement via un fichier [CITATION.cff](CITATION.cff), ce qui permet à GitHub et à des outils comme Zenodo de générer automatiquement des citations normalisées.*
 
-Si vous utilisez ce projet dans vos travaux, veuillez le citer en utilisant le fichier [CITATION.cff](CITATION.cff).
+Pour citer ce projet, cliquez sur le bouton **`Cite this repository`** dans la barre latérale de droite.
+
+---
+
+## Contribution
+
+> 👉 *OPTIONNEL : Fournir des lignes directrices pour contribuer au projet, le cas échéant.*
+
+Les contributions sont les bienvenues ! Veuillez consulter les lignes directrices dans [CONTRIBUTING.md](CONTRIBUTING.md) et vous assurer de respecter notre [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) afin de favoriser un environnement respectueux et inclusif.
+
+---
+
+## Références
+
+> 👉 *OBLIGATOIRE : Fournir des références aux ressources clés (publications, outils, logiciels). Utiliser un fichier [REFERENCES.md](REFERENCES.md) pour garder le README concis.*
+
+Pour une liste des ressources clés utilisées ici, voir [REFERENCES.md](REFERENCES.md).
+
+---
+
+## Sécurité
+
+> 👉 *OBLIGATOIRE : Garder tel quel.*
+
+⚠️ Ne publiez aucun problème de sécurité sur le répertoire public ! Veuillez les signaler comme décrit dans [SECURITY.md](SECURITY.md).
+
+---
+
+## Licence
+
+> 👉 *OBLIGATOIRE : Si votre projet n’utilise pas la licence MIT par défaut fournie ici, remplacez le fichier `LICENSE` en conséquence. Assurez-vous d’inclure l’avis de droit d’auteur à la fois dans cette section (pour la visibilité) et dans le fichier `LICENSE`. Des ressources utiles pour comprendre et choisir la bonne licence incluent [LicenseHub](https://licensehub.org/fr) (voir leurs outils [Recommandation intelligente de licence](https://licensehub.org/fr/tools/selector) et [Générateur de modèle de licence](https://licensehub.org/fr/tools/generator)) et [tl;drLegal](https://www.tldrlegal.com/). GitHub offre aussi une manière [d’ajouter une licence directement dans le répertoire](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).*
+
+Voir le fichier [LICENSE](LICENSE) pour plus de détails. Visitez [LicenseHub](https://licensehub.org/fr) ou [tl;drLegal](https://www.tldrlegal.com/) pour consulter un résumé en langage clair de cette licence.
+
+**Droit d’auteur (c)** Sa Majesté le Roi du chef du Canada, représenté par le ministre de l’Agriculture et de l’Agroalimentaire, 2025.
+
+---
