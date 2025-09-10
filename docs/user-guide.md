@@ -109,7 +109,7 @@ Notes:
 
 ## Output
 
-👉 *Describe output format, location, naming convention, and purpose.*
+> 👉 *Describe output format, location, naming convention, and purpose.*
 
 Output files include:
 
