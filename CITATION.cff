@@ -1,23 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: "ABCC template repository: A Reproducible Data Processing Pipeline Template"
-version: 1.0.0
-doi: # Optional if using Zenodo integration
-date-released: 2025-06-01
+title: >-
+  ABCC template repository: A Reproducible Data Processing
+  Pipeline Template
+message: >-
+  If you use this template, please cite it using the
+  metadata from this file.
+type: dataset
 authors:
-  - family-names: ABCC project team
-    given-names: 
-    orcid: 
-    affiliation: 
-abstract: >
-  AAFC Bioinformatics Code Catalogue (ABCC) template repository provides a modular and extensible framework for developing 
-  reproducible data analysis pipelines within the [AAFC-Bioinfo-AAC](https://github.com/AAFC-Bioinfo-AAC?view_as=public)
-  GitHub organization. It enables researchers and developers to quickly set up new projects using parameterized, reusable
-  components that can be easily adapted to diverse use cases.
-license: MIT
-repository-code: https://github.com/AAFC-Bioinfo-AAC/template-repository
+  - name: AAFC Bioinformatics Code Catalogue (ABCC) project team
+repository-code: 'https://github.com/AAFC-Bioinfo-AAC/template-repository'
+abstract: >-
+  AAFC Bioinformatics Code Catalogue (ABCC) template
+  repository provides a modular and extensible framework for
+  developing reproducible data analysis pipelines within the
+  [AAFC-Bioinfo-AAC](https://github.com/AAFC-Bioinfo-AAC?view_as=public)
+  GitHub organization. It enables researchers and developers
+  to quickly set up new projects using parameterized,
+  reusable components that can be easily adapted to diverse
+  use cases.
 keywords:
   - reproducibility
   - template
-  - bioinformatics
-  - pipeline
+  - bioinformatics pipeline
+license: MIT
+version: 1.0.0
+date-released: '2025-09-11'

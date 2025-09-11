@@ -54,7 +54,7 @@ Les fichiers suivants ont été adaptés du [Gabarit pour dépôts de code sourc
 
 ## Citation
 
-> 👉 *OBLIGATOIRE : Inclure les instructions de citation, idéalement via un fichier [CITATION.cff](CITATION.cff), ce qui permet à GitHub et à des outils comme Zenodo de générer automatiquement des citations normalisées.*
+> 👉 *OBLIGATOIRE : Inclure les instructions de citation, idéalement via un fichier [CITATION.cff](CITATION.cff), ce qui permet à GitHub et à des outils comme Zenodo de générer automatiquement des citations normalisées. Voir les liens pour la [documentation sur le format de fichier de citation (CFF)](https://citation-file-format.github.io/) et un [outil de génération de fichier CITATION.cff personnalisé](https://citation-file-format.github.io/cff-initializer-javascript/#/).*
 
 Pour citer ce projet, cliquez sur le bouton **`Cite this repository`** dans la barre latérale de droite.
 
