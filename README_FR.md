@@ -70,7 +70,7 @@ Les contributions sont les bienvenues ! Veuillez consulter les lignes directrice
 
 ## Références
 
-> 👉 *OBLIGATOIRE : Fournir des références aux ressources clés (publications, outils, logiciels). Utiliser un fichier [REFERENCES.md](REFERENCES.md) pour garder le README concis.*
+> 👉 *OPTIONNEL : Le cas échéant, fournissez des références aux ressources clés (publications, outils, logiciels). Utiliser un fichier [REFERENCES.md](REFERENCES.md) pour garder le README concis.*
 
 Pour une liste des ressources clés utilisées ici, voir [REFERENCES.md](REFERENCES.md).
 
