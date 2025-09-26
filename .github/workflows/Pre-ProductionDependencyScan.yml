@@ -1,0 +1,35 @@
+name: Pre-Production Dependency Scan
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch_name:
+        description: 'Branch to scan (e.g., main, release/v1.0)'
+        required: true
+        default: 'main'
+      severity_threshold:
+        description: 'Minimum severity to report'
+        required: false
+        default: 'moderate'
+        type: choice
+        options:
+        - low
+        - moderate
+        - high
+        - critical
+
+jobs:
+  dependency-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.branch_name }}
+
+      - name: Dependency Review
+        uses: actions/dependency-review-action@v4
+        with:
+          base-ref: ${{ github.event.inputs.branch_name }}
+          head-ref: ${{ github.event.inputs.branch_name }}
+          fail-on-severity: ${{ github.event.inputs.severity_threshold }}
