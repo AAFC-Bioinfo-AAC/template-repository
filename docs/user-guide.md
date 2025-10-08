@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# [REPOSITORY NAME] USER GUIDE
+# [REPOSITORY NAME] - USER GUIDE
 
 > ℹ️ *Feel free to adjust this template to suit your needs, while ensuring that all information necessary for reproducibility is included. See instructions (👉 in italics) and example content provided under each section header below.*
 
