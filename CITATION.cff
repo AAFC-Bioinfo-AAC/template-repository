@@ -8,7 +8,7 @@ title: >-
 message: >-
   If you use this template, please cite it using the
   metadata from this file.
-type: dataset
+type: software
 authors:
   - name: AAFC Bioinformatics Code Catalogue (ABCC) project team
 repository-code: 'https://github.com/AAFC-Bioinfo-AAC/template-repository'
@@ -28,3 +28,4 @@ keywords:
 license: MIT
 version: 1.0.0
 date-released: '2025-09-11'
+
