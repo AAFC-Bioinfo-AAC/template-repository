@@ -1,6 +1,6 @@
 
 # Source of this template: https://docs.dockstore.org/en/stable/assets/templates/workflows/workflows.html#full-template-with-explanation-of-all-available-fields
-# Minor edits made to include Snakemake subclass (SMK) and a warning note to not change "publish" status. 
+# Minor edits made to include Snakemake subclass (SMK), and its primaryDescriptorPath to be the Snakefile, plus a warning note to not change "publish" status (this will be managed by the org admin team). 
 
 # The first line refers to the version 1.2 of the .dockstore.yml schema
 version: 1.2
@@ -27,13 +27,14 @@ workflows:
     # Omitting the publish setting leaves the publish-state unchanged (recommended for all non-primary branches).
     publish: FALSE
     # WARNING: DO NOT set publish to TRUE in an unpublished workflow. 
-    # The code security review team will manage this setting following your publication request.
+    # The org admin team will manage this setting following your publication request and code review.
 
     # The absolute path to the primary descriptor file in the Git repository.
     # - For CWL, the primary descriptor is a .cwl file.
     # - For WDL, the primary descriptor is a .wdl file.
     # - For Galaxy, the primary descriptor is a .ga file.
     # - Nextflow differs from these as the primary descriptor is a nextflow.config file.
+    # - Snakemake differs from these as the primary descriptor is the Snakefile
     primaryDescriptorPath: <String>
 
     # An optional array of absolute paths to test parameter files in the Git repository.
