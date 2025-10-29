@@ -36,13 +36,13 @@ keywords:
   - bioinformatics pipeline
 
 authors:
-  # If author is a team/group, use name and affiliation keys as above
+# If author is a team/group, use name and affiliation keys as above
   - name: AAFC Bioinformatics Code Catalogue (ABCC) project team
     affiliation: Agriculture and Agri-Food Canada (AAFC)
 
-  # Else, for each individual author, use separate blocks of following keys:
-  #  - given-names:
-  #    family-names:
-  #    affiliation:
-  #    orcid:
-  #    email: 
+# Else, for each individual author, use separate blocks of following keys:
+#  - given-names:
+#    family-names:
+#    affiliation:
+#    orcid:
+#    email: 
