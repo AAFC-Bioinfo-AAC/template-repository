@@ -2,30 +2,47 @@
 # Visit https://bit.ly/cffinit to generate yours!
 
 cff-version: 1.2.0
-title: >-
-  ABCC template repository: A Reproducible Data Processing
-  Pipeline Template
-message: >-
-  If you use this template, please cite it using the
-  metadata from this file.
-type: software
-authors:
-  - name: AAFC Bioinformatics Code Catalogue (ABCC) project team
-repository-code: 'https://github.com/AAFC-Bioinfo-AAC/template-repository'
+
+title: ABCC template repository: A Reproducible Data Processing Pipeline Template
+
+message: If you use this template, please cite it using the metadata from this file.
+
+# For code repositories, replace ": generic" with ": software"
+type: generic
+
+# For code repositories, replace "repository:" with "repository-code:"
+repository: 'https://github.com/AAFC-Bioinfo-AAC/template-repository'
+
+license: MIT
+
+version: 1.0.0
+
+date-released: '2025-09-11'
+
+# The use of folded block scalars (>-) for multi-line text ensures readability and 
+# clean rendering on GitHub and Zenodo. All line breaks are turned into spaces,
+# making it flow like a normal sentence — ideal for long titles, messages and abstracts.
+
 abstract: >-
-  AAFC Bioinformatics Code Catalogue (ABCC) template
-  repository provides a modular and extensible framework for
-  developing reproducible data analysis pipelines within the
-  [AAFC-Bioinfo-AAC](https://github.com/AAFC-Bioinfo-AAC?view_as=public)
-  GitHub organization. It enables researchers and developers
-  to quickly set up new projects using parameterized,
-  reusable components that can be easily adapted to diverse
-  use cases.
+  AAFC Bioinformatics Code Catalogue (ABCC) template repository provides a modular and 
+  extensible framework for developing reproducible data analysis pipelines within the 
+  [AAFC-Bioinfo-AAC](https://github.com/AAFC-Bioinfo-AAC?view_as=public) GitHub organization. 
+  It enables researchers and developers to quickly set up new projects using parameterized,
+  reusable components that can be easily adapted to diverse use cases.
+
 keywords:
   - reproducibility
   - template
   - bioinformatics pipeline
-license: MIT
-version: 1.0.0
-date-released: '2025-09-11'
 
+authors:
+  # If author is a team/group, use name and affiliation keys as above
+  - name: AAFC Bioinformatics Code Catalogue (ABCC) project team
+    affiliation: Agriculture and Agri-Food Canada (AAFC)
+
+  # Else, for each individual author, use separate blocks of following keys:
+  #  - given-names:
+  #    family-names:
+  #    affiliation:
+  #    orcid:
+  #    email: 
