@@ -1,6 +1,9 @@
-
-# Source of this template: https://docs.dockstore.org/en/stable/assets/templates/workflows/workflows.html#full-template-with-explanation-of-all-available-fields
-# Minor edits made to include Snakemake subclass (SMK), and its primaryDescriptorPath to be the Snakefile, plus a warning note to not change "publish" status (this will be managed by the org admin team). 
+# =============================================================================
+# Source: https://docs.dockstore.org/en/stable/assets/templates/workflows/workflows.html#full-template-with-explanation-of-all-available-fields
+# 
+# Minor edits made to include Snakemake subclass (SMK), and its primaryDescriptorPath to be the Snakefile, 
+# plus a warning note to not change "publish" status (this will be managed by the org admin team). 
+# =============================================================================
 
 # The first line refers to the version 1.2 of the .dockstore.yml schema
 version: 1.2
