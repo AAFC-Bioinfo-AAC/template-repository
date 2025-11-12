@@ -1,14 +1,3 @@
-# To replace this license with another using GitHub web interface:
-# 1. Navigate to your repository on GitHub
-# 2. Click on the "Add file" dropdown menu and select "Create new file."
-# 3. Name the file `LICENSE` or `LICENSE.md`
-# 4. Click on "Choose a license template" on the right side of the page
-# 5. Confirm message: "You have unsaved changes. Do you want to discard them?"
-# 6. Select the desired license from the list of available templates
-# 7. Click "Review and submit."
-# 8. Add copyright and any metadata specific to your software if indicated in the license. 
-# 9. Commit the new LICENSE file
-
 MIT License
 
 © His Majesty the King in Right of Canada, as represented by the Minister of Agriculture and Agri-Food Canada, 2025.
@@ -31,5 +20,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
