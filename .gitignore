@@ -54,13 +54,6 @@ $RECYCLE.BIN/
 *.sublime-project
 
 # ============================
-# Version Control System
-# ============================
-.git/
-.gitignore
-.gitmodules
-
-# ============================
 # Dependencies (generic)
 # ============================
 node_modules/
