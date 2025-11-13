@@ -86,19 +86,10 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md).
 
 ## License
 
-> 👉 *REQUIRED: Be sure to include the copyright statement both in this section (for visibility) and within the LICENSE file. Helpful resources to understand and select the right license include [LicenseHub](https://licensehub.org) (see their [Smart License Recommendation](https://licensehub.org/en/tools/selector) and [License Template Generator](https://licensehub.org/en/tools/generator) tools) and [tl;drLegal](https://www.tldrlegal.com/).
-> 
-> Github provides a way to [add a license directly into the repository](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). If your project does not use the default MIT license provided here, replace the LICENSE file as follows (using the GitHub web interface):
-> 1. Navigate to your repository on GitHub and click on the "Add file" dropdown menu and select "Create new file"
-> 2. Name the file `LICENSE` or `LICENSE.md` and click on "Choose a license template" that appears then
-> 3. Confirm message: "You have unsaved changes. Do you want to discard them?" and select the desired license from the list of available templates
-> 4. Click "Review and submit" and add copyright and any metadata specific to your software if indicated in the license file content.
-> 5. Commit the new LICENSE file*
+> 👉 *REQUIRED: Helpful resources to understand and select the right license include [LicenseHub](https://licensehub.org) (see their [Smart License Recommendation](https://licensehub.org/en/tools/selector) and [License Template Generator](https://licensehub.org/en/tools/generator) tools) and [tl;drLegal](https://www.tldrlegal.com/). If your project does not use the default MIT license provided here, [replace the LICENSE file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). Be sure to include the copyright statement both in this section (for visibility) and within the LICENSE file.
 
 See the [LICENSE](LICENSE) file for details. Visit [LicenseHub](https://licensehub.org) or [tl;drLegal](https://www.tldrlegal.com/) to view a plain-language summary of this license.
 
 **Copyright ©** His Majesty the King in Right of Canada, as represented by the Minister of Agriculture and Agri-Food, 2025.
 
 ---
-
-
