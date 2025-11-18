@@ -86,7 +86,7 @@ For a list of key resources used here, see [REFERENCES.md](REFERENCES.md).
 
 ## License
 
-> 👉 *REQUIRED: Helpful resources to understand and select the right license include [LicenseHub](https://licensehub.org) (see their [Smart License Recommendation](https://licensehub.org/en/tools/selector) and [License Template Generator](https://licensehub.org/en/tools/generator) tools) and [tl;drLegal](https://www.tldrlegal.com/). If your project does not use the default MIT license provided here, [replace the LICENSE file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). Be sure to include the copyright statement both in this section (for visibility) and within the LICENSE file.
+> 👉 *REQUIRED: Helpful resources to understand and select the right license include [LicenseHub](https://licensehub.org) (see their [Smart License Recommendation](https://licensehub.org/en/tools/selector) and [License Template Generator](https://licensehub.org/en/tools/generator) tools) and [tl;drLegal](https://www.tldrlegal.com/). An R Shiny tool, [OSSLicensR](https://websphn001.agr.gc.ca/OSSLicensR/) is also available (internal access only) to guide selection of an appropriate license. If your project does not use the default MIT license provided here, [replace the LICENSE file](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). Be sure to include the copyright statement both in this section (for visibility) and within the LICENSE file.*
 
 See the [LICENSE](LICENSE) file for details. Visit [LicenseHub](https://licensehub.org) or [tl;drLegal](https://www.tldrlegal.com/) to view a plain-language summary of this license.
 
