@@ -5,6 +5,8 @@
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
 > ℹ️ *The language badges above (created using [Shields.io](https://shields.io/)) link to the README files, to be maintained in both English ([README.md](README.md)) and French ([README_FR.md](README_FR.md)). See instructions (👉 in italics) and example content provided under each section header below. The format of the README template has been designed such that, in most use cases, only the `About` and `Credits` sections need be replaced by the user and customized to their projects, keeping all other sections as is. However, the format may be changed/adapted as needed, provided the content under sections indicated as required are included. For instance, if the combined content is brief, the four sections - `Credits`, `Citation`, `Contribution`, and `References` - may be consolidated into a single section titled `Acknowledgements`.*
+>
+> ℹ️ *Refer [Quick Start Guide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/tree/main?tab=readme-ov-file#quick-start-guide).*
 
 ---
 

@@ -5,6 +5,8 @@
 [![EN](https://img.shields.io/badge/lang-EN-blue.svg)](README.md)
 
 > ℹ️ *Les badges de langue ci-dessus (créés avec [Shields.io](https://shields.io/)) renvoient aux fichiers README, à maintenir en anglais ([README.md](README.md)) et en français ([README_FR.md](README_FR.md)). Voir les instructions (👉 en italique) et le contenu d’exemple fourni sous chaque en-tête de section ci-dessous. Le format du modèle de README a été conçu de manière à ce que, dans la plupart des cas, seules les sections `À propos` et `Crédits` doivent être remplacées et adaptées aux projets de l’utilisateur, en gardant toutes les autres sections telles quelles. Toutefois, le format peut être modifié/adapté au besoin, à condition que le contenu des sections indiquées comme obligatoires soit inclus. Par exemple, si le contenu combiné est bref, les quatre sections – `Crédits`, `Citation`, `Contribution` et `Références` – peuvent être regroupées dans une seule section intitulée `Remerciements`.*
+>
+> ℹ️ *Voir le [Guide de démarrage rapide](https://github.com/AAFC-Bioinfo-AAC/quick-start-guide/blob/main/README_FR.md).*
 
 ---
 
