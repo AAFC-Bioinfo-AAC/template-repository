@@ -48,7 +48,7 @@ Ce modèle a été développé par l’**équipe de projet ABCC**. Pour une list
 
 Les fichiers suivants ont été adaptés du [Gabarit pour dépôts de code source ouvert du gouvernement du Canada](https://github.com/canada-ca/template-gabarit?tab=readme-ov-file#gabarit-pour-d%C3%A9p%C3%B4ts-de-code-source-ouvert-du-gouvernement-du-canada) : `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md` et `SECURITY.md`.
 
-🤖 Ce projet inclut du contenu généré avec l’aide de modèles d’IA. Tout le matériel généré par IA a été examiné, vérifié et, au besoin, affiné par l’équipe du projet afin d’en assurer l’exactitude.
+🤖 Des modèles d’IA générative ont été utilisés pour la réalisation de ce projet, et tout le contenu généré par l’IA a été examiné, vérifié et perfectionné par l’équipe de projet afin d’en assurer l’exactitude.
 
 ---
 
@@ -93,4 +93,3 @@ Voir le fichier [LICENSE](LICENSE) pour plus de détails. Visitez [LicenseHub](h
 **Droit d’auteur ©** Sa Majesté le Roi du chef du Canada, représenté par le ministre de l’Agriculture et de l’Agroalimentaire, 2025.
 
 ---
-

@@ -48,7 +48,7 @@ This template was developed by the **ABCC project team**. For a list of individu
 
 The following files were adapted from the [Template for Government of Canada open source code repositories](https://github.com/canada-ca/template-gabarit): `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md` and `SECURITY.md`.
 
-🤖 This project includes content generated with the assistance of AI models. All AI-generated material has been reviewed, verified, and, where necessary, refined by the project team to ensure accuracy.
+🤖 Generative AI models were used in the development of this project, and all AI-generated content has been reviewed, verified, and refined by the project team to ensure accuracy.
 
 ---
 
